@@ -8,7 +8,7 @@ Matériel de la formation "Zotero pour les revues de littérature".
 * Tirer parti des fonctionnalités de Zotero et de ses extensions à toutes les étapes d’une revue de littérature, de l’import par lot des références bibliographiques à l’analyse du corpus et à la restitution des résultats
 
 ## Cours
-Support de cours complet : [COURS à consulter en ligne en html](Lien à maj)  
+Support de cours : [COURS à consulter en ligne en html](Lien à maj)  
 
 ## Exercices
 ### Exercice pré-formation (Urfist Occitanie)
