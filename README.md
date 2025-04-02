@@ -8,19 +8,22 @@ Matériel de la formation "Zotero pour les revues de littérature".
 * Tirer parti des fonctionnalités de Zotero et de ses extensions à toutes les étapes d’une revue de littérature, de l’import par lot des références bibliographiques à l’analyse du corpus et à la restitution des résultats
 
 ## Cours
-Support de cours : [COURS à consulter en ligne en html](Lien à maj)  
+Support de cours : [COURS à consulter en ligne en html](https://github.com/fflamerie/zotero_revlit/blob/main/docs/zotero_RevLit_COURS.md) 
 
 ## Exercices
 ### Exercice pré-formation (Urfist Occitanie)
-  * [Enoncé](lien à màj)
-  * [fichier .bib à importer](lien à maj)
- 
+  * [Enoncé](https://github.com/fflamerie/zotero_revlit/blob/main/docs/Exercices_preformation_Zotero_RevLit_diff.odt)
+  * [fichier .bib à importer](https://github.com/fflamerie/zotero_revlit/blob/main/docs/import_Zotero_RevLit.bib)
+
+#### Dédoublonnage avec Zoplicate
+
+[Fichier test .bib à importer dans Zotero](https://github.com/fflamerie/zotero_revlit/blob/main/docs/test_zoplicate.bib)
+
 ### Quiz sur les styles bibliographiques
 
 Quiz diffués par le biais du service Digistorm (merci [La Digitale](https://ladigitale.dev/)!).
 
-🎯 [Texte du quiz](lien à maj)
-
+🎯 [Texte du quiz](https://github.com/fflamerie/zotero_revlit/blob/main/docs/zotero_styles_quiz.md)
 
 ## Programme de la formation publié sur le site de l'Urfist
 
