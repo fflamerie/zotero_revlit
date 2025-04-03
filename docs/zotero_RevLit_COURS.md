@@ -7,11 +7,11 @@
 
 ## Sommaire
 
-- [0. Tour de table](#0-tour-de-table)   
-- [1. Introduction sur les revues de littérature : synthèses de la littérature, revues narratives et revues systématiques](#1-introduction-sur-les-revues de littérature)
-- [2. Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero](#2-organiser-le-flux-de-travail-bibliographique-d-une-revue-de-littérature-avec-Zotero)
-- [3. Les outils de Zotero au service du travail d’analyse d’une revue de littérature](#3-les-outils-de-Zotero-au-service-du-travail-d-analyse-d-une-revue-de-littérature)
-- [4. Rendre compte des résultats d’une revue de littérature](#4-rendre-compte des résultats d’une revue de littérature)
+- 0. Tour de table 
+- 1. Introduction sur les revues de littérature : synthèses de la littérature, revues narratives et revues systématiques
+- 2. Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero
+- 3. Les outils de Zotero au service du travail d’analyse d’une revue de littérature
+- 4. Rendre compte des résultats d’une revue de littérature
 
 ## 0. Tour de table
 
@@ -20,7 +20,14 @@
 
 ## 1. Introduction sur les revues de littérature 
 
-- [ ] à faire - insérer lien fiche
+Une revue de littérature peut prendre plusieurs formes, selon le cadre de la recherche et le livrable attendu. Dans ce spectre, il est possible de naviguer entre différentes options, de la revue narrative à la revue systématique, comme le montre le tableau non exhaustif ci-dessous.
+
+![Les principaux types de revue de la littérature](img/Fiche_RevLitGen.jpg)
+
+[Télécharger le tableau en ligne au format PDF aux dimensions A4](https://github.com/fflamerie/intro_revlit/blob/main/docs/Typologie_RevLit.pdf)
+
+
+Dans tous les cas, y compris pour une synthèse de littérature menée dans le cadre d’un travail universitaire, Zotero peut grandement faciliter la réalisation de votre revue, accompagnant votre méthodologie quel que soit le degré d’exhaustivité que vous souhaitez ou devez atteindre.
 
 
 ## 2. Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero
@@ -122,7 +129,7 @@ Zoplicate optimise la gestion des doublons grâce aux fonctionnalités suivantes
 
 ![La vue doublons avec Zoplicate : affichage du nombre de doublons et options supplémentaires de gestion des doublons dans le volet de gauche de Zotero](img/zoplicate_vue_doublons.jpg)
 
-📝 Importez le fichier **test_zoplicate.bib** dans Zotero. Quels paramétrages et fonctionnalités de Zoplicate utilisez-vous pour traiter ce lot? <!--lien fichier test à ajouter-->
+📝 Importez le fichier **test_zoplicate.bib** dans Zotero. Quels paramétrages et fonctionnalités de Zoplicate utilisez-vous pour traiter ce lot? [Télécharger le fichier "test_zoplicate.bib"](https://raw.githubusercontent.com/fflamerie/zotero_revlit/main/docs/test_zoplicate.bib)
 
 ### 2.4 Compléter et mettre à niveau les informations bibliographiques avec l'extension Linter
 
@@ -279,12 +286,10 @@ Il existe déjà des scripts personnalisés, créés par des utilisateurs ou par
 
 📝 Nous installons ensemble le script personnalisé [Bulk Edit Multiple Items](https://github.com/windingwind/zotero-actions-tags/discussions/343) ; vous choisissez les libellés et/ou le raccourci-clavier qui vous conviennent le mieux. 
 
-📝 Voici une sélection de scripts personnalisés. Lesquels vous sembleraient-ils utiles pour votre revue littérature? En repérez-vous d'autres dans [la liste complète des scripts personnalisés référencés](https://github.com/windingwind/zotero-actions-tags/discussions/categories/action-scripts)?
+📝 Voici 2 exemples de scripts personnalisés. Lesquels vous sembleraient-ils utiles pour votre revue littérature? En repérez-vous d'autres dans [la liste complète des scripts personnalisés référencés](https://github.com/windingwind/zotero-actions-tags/discussions/categories/action-scripts)?
 
 * [Collection Tags](https://github.com/windingwind/zotero-actions-tags/discussions/245)
 * [Batch Tag Operations](https://github.com/windingwind/zotero-actions-tags/discussions/351)
-* [Convert Rayyan Include/Exclude and Labels to Zotero Tags
-](https://github.com/windingwind/zotero-actions-tags/discussions/354)<!--à tester-->
 
 ### 2.6 Organiser la bibliothèque avec les marqueurs et les recherches enregistrées
 Zotero dispose de plusieurs outils pour organiser une bibliothèque :
@@ -373,7 +378,8 @@ Choisissez celui qui vous semble le plus adapté à vos besoins et installez-le 
 
 La recherche de citations, ou _snowballing_, fait partie des méthodes de recherche bibliographique utilisables pour une revue de littérature ; elle peut être requise. Cette recherche peut s'entendre dans les deux sens de citation, en amont et en aval, et porter par conséquent sur les références citées et/ou citantes.
 
-L'export des références citées et citantes est intégrée dans les deux principaux index de citation commerciaux, **Scopus** et **Web of Science**. D'autres services, gratuits, exploitent cette méthode de recherche et peuvent permettre de mener ce type de recherche, voir la fiche [Outils explo lit](lien) <!--lien à ajouter--> ; nous nous en tenons ici à l'exemple de Citation Chaser.
+L'export des références citées et citantes est intégrée dans les deux principaux index de citation commerciaux, **Scopus** et **Web of Science**. D'autres services, gratuits, exploitent cette méthode de recherche et peuvent permettre de mener ce type de recherche, voir la fiche [Constituer et explorer des corpus d’articles avec Connected Papers, Research Rabbit et Citation Chaser](https://github.com/fflamerie/intro_revlit/blob/main/docs/Fiche_ExploLit.pdf)
+ ; nous nous en tenons ici à l'exemple de Citation Chaser.
 
 #### Retrouver les références citées et citantes avec Citation Chaser
 [Citation Chaser](https://estech.shinyapps.io/citationchaser/), développé et mis à disposition par des chercheurs en écologie, présente de nombreux avantages.
@@ -585,7 +591,7 @@ Modifier un style bibliographique Zotero, écrit dans le langage informatique CS
 Deux billets du blog Zotero francophone pourront vous aider si vous souhaitez vous lancer dans l'aventure CSL.
 
 - [Apporter de petites modifications à un style bibliographique](https://zotero.hypotheses.org/3746)
-- [Bonnes pratiques pour la création d'un style CSL]()<!--lien à ajouter-->
+- [Bonnes pratiques pour la création d'un style CSL](https://zotero.hypotheses.org/5302)
 
 
 #### Citer avec Zotero : les extensions de traitement de texte et les autres outils
