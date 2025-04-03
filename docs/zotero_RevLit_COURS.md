@@ -26,9 +26,7 @@ Une revue de littérature peut prendre plusieurs formes, selon le cadre de la re
 
 [Télécharger le tableau en ligne au format PDF aux dimensions A4](https://github.com/fflamerie/intro_revlit/blob/main/docs/Typologie_RevLit.pdf)
 
-
 Dans tous les cas, y compris pour une synthèse de littérature menée dans le cadre d’un travail universitaire, Zotero peut grandement faciliter la réalisation de votre revue, accompagnant votre méthodologie quel que soit le degré d’exhaustivité que vous souhaitez ou devez atteindre.
-
 
 ## 2. Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero
 
@@ -349,7 +347,7 @@ Deux fonctionnalités complémentaires vous permettent d'augmenter ces fonctions
 
 ![zotero][zotero] [Documentation Zotero : Le menu Localiser](https://docs.zotero-fr.org/locate)
 
-### Configuration OpenURL
+#### Configuration OpenURL
 
 Dans la section _Paramètres_ > _Général_, rubrique _Localiser_, ouvrez le menu déroulant _Résolveur de liens_ et naviguez dans la liste géographique pour sélectionner votre établissement.
 
@@ -357,12 +355,12 @@ Dans la section _Paramètres_ > _Général_, rubrique _Localiser_, ouvrez le men
 
 Pour lancer la recherche OpenURL dans les ressources de votre établissement, il vous suffira de cliquer sur l'option _Recherche dans la bibliothèque_ du menu _Localiser_.
 
-### Moteurs de recherche intégrés à Zotero
+#### Moteurs de recherche intégrés à Zotero
 Ces moteurs de recherche vous permettent de lancer une recherche dans diverses sources pour trouver un fichier de texte intégral disponible sur un site web personnel (moteurs Google, Google Scholar), ou pour compléter les informations bibliographiques de vos documents (moteur Sudoc pour les livres et les thèses, moteur PubMed pour les articles, moteurs Isidore, etc.).
 
 Pour en savoir plus concernant la personnalisation des moteurs de recherche, consultez le billet du blog Zotero francophone [Les moteurs de recherche intégrés à Zotero](https://zotero.hypotheses.org/3388).
 
-#### Installer un fichier de moteurs de recherche préconfigurés
+##### Installer un fichier de moteurs de recherche préconfigurés
 
 📝 Plusieurs fichiers de moteurs de recherche préconfigurés sont disponibles en annexe au billet du blog Zotero francophone précédemment cité, ils sont disponibles sur [le dépôt GitHub du blog](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-05-moteurs) .
 
@@ -591,7 +589,6 @@ Deux billets du blog Zotero francophone pourront vous aider si vous souhaitez vo
 - [Apporter de petites modifications à un style bibliographique](https://zotero.hypotheses.org/3746)
 - [Bonnes pratiques pour la création d'un style CSL](https://zotero.hypotheses.org/5302)
 
-
 #### Citer avec Zotero : les extensions de traitement de texte et les autres outils
 
 Zotero dispose de différents outils pour générer des listes bibliographiques, qu'il s'agisse de produire [un rapport](https://docs.zotero-fr.org/reports), une [bibliographie indépendante](https://docs.zotero-fr.org/creating_bibliographies/#menu-contextuel-pour-creer-une-citationbibliographie), la liste des références citées ou encore d'[insérer quelques références](https://docs.zotero-fr.org/creating_bibliographies/#copie-rapide) dans un courriel ou un diaporama .
@@ -640,7 +637,7 @@ Vous trouverez comment procéder dans la documentation Zotero francophone, à la
 
 ![zotero][zotero] [Base de connaissance Zotero-FR : Créer un format d'export CSV personnalisé](https://docs.zotero-fr.org/kbfr/kbfr_export_csv_custom/)
 
-# Crédits
+**Crédits**
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Licence Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International Deed</a>.
 
