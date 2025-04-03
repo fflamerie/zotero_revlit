@@ -7,11 +7,11 @@
 
 ## Sommaire
 
-- 0. Tour de table 
-- 1. Introduction sur les revues de littérature : synthèses de la littérature, revues narratives et revues systématiques
-- 2. Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero
-- 3. Les outils de Zotero au service du travail d’analyse d’une revue de littérature
-- 4. Rendre compte des résultats d’une revue de littérature
+0. Tour de table 
+1. Introduction sur les revues de littérature : synthèses de la littérature, revues narratives et revues systématiques
+2. Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero
+3. Les outils de Zotero au service du travail d’analyse d’une revue de littérature
+4. Rendre compte des résultats d’une revue de littérature
 
 ## 0. Tour de table
 
@@ -374,8 +374,6 @@ Choisissez celui qui vous semble le plus adapté à vos besoins et installez-le 
 
 ### 3.1 Enregistrer les liens de citation dans Zotero 
 
-- [ ] ajouter lien topo Connected Paper, Citation Chaser and co -> réviser fiche Explo Lit
-
 La recherche de citations, ou _snowballing_, fait partie des méthodes de recherche bibliographique utilisables pour une revue de littérature ; elle peut être requise. Cette recherche peut s'entendre dans les deux sens de citation, en amont et en aval, et porter par conséquent sur les références citées et/ou citantes.
 
 L'export des références citées et citantes est intégrée dans les deux principaux index de citation commerciaux, **Scopus** et **Web of Science**. D'autres services, gratuits, exploitent cette méthode de recherche et peuvent permettre de mener ce type de recherche, voir la fiche [Constituer et explorer des corpus d’articles avec Connected Papers, Research Rabbit et Citation Chaser](https://github.com/fflamerie/intro_revlit/blob/main/docs/Fiche_ExploLit.pdf)
@@ -641,3 +639,13 @@ Nous prenons **10 minutes** pour créer un format d'export personnalisé CSV ré
 Vous trouverez comment procéder dans la documentation Zotero francophone, à la page indiquée ci-dessous.
 
 ![zotero][zotero] [Base de connaissance Zotero-FR : Créer un format d'export CSV personnalisé](https://docs.zotero-fr.org/kbfr/kbfr_export_csv_custom/)
+
+# Crédits
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Licence Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International Deed</a>.
+
+[zotero]: img/icone_zotero.png
+
+**Auteur**
+
+Frédérique Flamerie
