@@ -51,7 +51,7 @@ Vous pouvez ainsi être le seul contributeur d’un groupe dont la bibliothèque
 * Vous retrouvez dans votre bibliothèque en ligne une petite partie des fonctionnalités de votre bibliothèque locale. A noter que l'application locale est indispensable pour l'interaction avec **les extensions de traitement de texte**.
 * Si le droit de consulter la bibliothèque de groupe peut être accordé à tout internaute, **cette consultation est limitée aux références bibliographiques** : les fichiers joints demeurent toujours accessibles seulement aux membres du groupe.
 * Veillez à **la bonne attribution des droits** en fonction de l’organisation souhaitée. Par exemple, si les droits des membres du groupe sont limités à la seule consultation de la bibliothèque, n’oubliez pas d’attribuer le rôle d’administrateur à toutes les personnes qui doivent ajouter des documents dans la bibliothèque ou les modifier.
-* Pour faciliter l'ajout des membres du groupe au au démarrage d'un projet, il est recommandé de créer un groupe de type **Public, à participation restreinte** plutôt qu'un groupe privé. L'initiative de rejoindre le groupe revient ainsi aux membres et non aux administrateurs du groupe, qui se voient épargnés la collecte des noms d'utilisateur Zotero ou des adresses de courriel pour l'envoi des invitations. Dans le cas d'un groupe destiné à devenir privé, il suffit alors de modifier ce paramètre lorsque tous les membres ont rejoint le groupe.
+* Pour faciliter l'ajout des membres du groupe au démarrage d'un projet, il est recommandé de créer un groupe de type **Public, à participation restreinte** plutôt qu'un groupe privé. L'initiative de rejoindre le groupe revient ainsi aux membres et non aux administrateurs du groupe, qui se voient épargnés la collecte des noms d'utilisateur Zotero ou des adresses de courriel pour l'envoi des invitations. Dans le cas d'un groupe destiné à devenir privé, il suffit alors de modifier ce paramètre lorsque tous les membres ont rejoint le groupe.
 * Un **flux RSS** affiché sur la page de la bibliothèque en ligne du groupe permet de suivre les ajouts dans la bibliothèque. Il faut pour cela que le groupe soit public, et sa bibliothèque consultable par tous.
 
 📝 Quel type de groupe créez-vous pour votre projet de revue de littérature? Quels paramétrages vous semblent-ils nécessaires?
@@ -382,7 +382,7 @@ L'export des références citées et citantes est intégrée dans les deux princ
 
 * Son utilisation est **libre et gratuite**.
 * La base de données d'indexation des citations utilisée est la base de données non commerciale de **The Lens**, offrant une couverture plus large que celle de Scopus ou du Web of Science puisqu'elle combine les données notamment de Microsoft Academic, PubMed, CORE et Crossref.
-* La recherche et l'export des références citées et citantes est très simple et rapide à effectuer, comme le montre les captures d'écran ci-dessous.
+* La recherche et l'export des références citées et citantes est très simple et rapide à effectuer, comme le montre les captures d'écran ci-dessous. Ces captures présentent le cas de la recherche à partir d'un seul article, toutefois il est possible de saisir en entrée **plusieurs articles**.
 
 1.  L'onglet _Article input_ permet de charger les articles à considérer, à partir de la saisie d'un de leurs identifiants (PMID, DOI, etc. ), d'un fichier .csv ou d'un fichier .ris.
 
@@ -431,7 +431,7 @@ Zotero peut **importer les annotations** effectuées dans un lecteur de PDF exte
 * Sélectionnez les documents parents des PDF dans votre bibliothèque Zotero.
 * Dans la barre de menu de Zotero, choisissez l'option _Fichier_ > _Exporter le PDF..._
 
-Les annotations peuvent être organisées au travers de la bibliothèque grâce aux marqueurs **marqueurs**. Les couleurs d'annotation permettent uniquement de filtrer les annotations d'un même fichier PDF.
+Les annotations peuvent être organisées au travers de la bibliothèque grâce aux **marqueurs**. Les couleurs d'annotation permettent uniquement de filtrer les annotations d'un même fichier PDF.
 
 Enfin, dans les **bibliothèques de groupe** les annotations de chaque contributeur sont identifiées et verrouillées : chacun ne peut modifier que ses propres annotations.
 
