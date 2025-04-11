@@ -22,7 +22,7 @@
 
 Une revue de littérature peut prendre plusieurs formes, selon le cadre de la recherche et le livrable attendu. Dans ce spectre, il est possible de naviguer entre différentes options, de la revue narrative à la revue systématique, comme le montre le tableau non exhaustif ci-dessous.
 
-![Les principaux types de revue de la littérature](img/Fiche_RevLitGen.jpg)
+![Les principaux types de revue de la littérature](img/Fiche_RevLitGen.jpeg)
 
 [Télécharger le tableau en ligne au format PDF aux dimensions A4](https://github.com/fflamerie/intro_revlit/blob/main/docs/Typologie_RevLit.pdf)
 
@@ -81,13 +81,13 @@ Parmi les nombreuses limitations imposées par Google Scholar, figurent celle du
 
 L'utilisation combinée du logiciel **[Publish or Perish](https://harzing.com/resources/publish-or-perish)** et d'un **VPN** permettent de contourner en partie ces obstacles et d'exporter d'un seul coup jusqu'à 1'000 résultats, dans divers formats y compris les formats RIS et BibTex.
 
-![Exemple d'une recherche Google Scholar dans Publish or Perish : le nombre de résultats maximum peut être porté à 1'000 pour Google Scholar!](img/PorP_GS.jpg)
+![Exemple d'une recherche Google Scholar dans Publish or Perish : le nombre de résultats maximum peut être porté à 1'000 pour Google Scholar!](img/PorP_GS.jpeg)
 
 Notez que Publish or Perish permet d'interroger d'autres sources, y compris des sources soumises à abonnement comme **Scopus**. Pour Scopus l'interrogation est gratuite jusqu'à 200 références et nécessite de disposer d'un compte gratuit Elsevier.
 
 ### 2.3 Gérer les doublons avec l'extension Zoplicate
 
-Lorsque vous affichez les doublons potentiels repérés par Zotero en cliquant sur la collection _Doublons_, vous devez ensuite valider individuellement chaque doublon pour fusionner les enregistrements concurrents. Ce fonctionnement est optimal pour **éviter les faux positifs**, c'est-à-dire pour éviter de fusionner des documents proposés comme doublons potentiels mais qui ne sont pas des doublons. Cela peut toutefois être pénalisant à certaines étapes d'une revue de littérature, lorsque ce risque de faux positif est nul. Par ailleurs, l'extension [Zoplicate](https://github.com/ChenglongMa/zoplicate) offre d'autres fonctionnalités intéressantes en plus de la fusion des doublons par lot.
+Lorsque vous affichez les doublons potentiels repérés par Zotero en cliquant sur la vue "Doublons", vous devez ensuite valider individuellement chaque doublon pour fusionner les enregistrements concurrents. Ce fonctionnement est optimal pour **éviter les faux positifs**, c'est-à-dire pour éviter de fusionner des documents proposés comme doublons potentiels mais qui ne sont pas des doublons. Cela peut toutefois être pénalisant à certaines étapes d'une revue de littérature, lorsque ce risque de faux positif est nul. Par ailleurs, l'extension [Zoplicate](https://github.com/ChenglongMa/zoplicate) offre d'autres fonctionnalités intéressantes en plus de la fusion des doublons par lot.
 
 #### Installer et configurer une extension
 
@@ -123,9 +123,9 @@ Zoplicate optimise la gestion des doublons grâce aux fonctionnalités suivantes
 * **Affichage du nombre de doublons** dans le volet de gauche de Zotero.
 * Marquage des faux positifs comme **"non doublons"**, ce qui les fait disparaître de la vue "Doublons".
 
-![Fenêtre de paramétrage de Zoplicate](img/zoplicate_parametres.jpg)
+![Fenêtre de paramétrage de Zoplicate](img/zoplicate_parametres.jpeg)
 
-![La vue doublons avec Zoplicate : affichage du nombre de doublons et options supplémentaires de gestion des doublons dans le volet de gauche de Zotero](img/zoplicate_vue_doublons.jpg)
+![La vue doublons avec Zoplicate : affichage du nombre de doublons et options supplémentaires de gestion des doublons dans le volet de gauche de Zotero](img/zoplicate_vue_doublons.jpeg)
 
 📝 Importez le fichier **test_zoplicate.bib** dans Zotero. Quels paramétrages et fonctionnalités de Zoplicate utilisez-vous pour traiter ce lot? [Télécharger le fichier "test_zoplicate.bib"](https://raw.githubusercontent.com/fflamerie/zotero_revlit/main/docs/test_zoplicate.bib)
 
@@ -284,7 +284,7 @@ Il existe déjà des scripts personnalisés, créés par des utilisateurs ou par
 
 📝 Nous installons ensemble le script personnalisé [Bulk Edit Multiple Items](https://github.com/windingwind/zotero-actions-tags/discussions/343) ; vous choisissez les libellés et/ou le raccourci-clavier qui vous conviennent le mieux. 
 
-📝 Voici 2 exemples de scripts personnalisés. Lesquels vous sembleraient-ils utiles pour votre revue littérature? En repérez-vous d'autres dans [la liste complète des scripts personnalisés référencés](https://github.com/windingwind/zotero-actions-tags/discussions/categories/action-scripts)?
+📝 Voici 2 exemples de scripts personnalisés. Vous sembleraient-ils utiles pour votre revue littérature? En repérez-vous d'autres dans [la liste complète des scripts personnalisés référencés](https://github.com/windingwind/zotero-actions-tags/discussions/categories/action-scripts)?
 
 * [Collection Tags](https://github.com/windingwind/zotero-actions-tags/discussions/245)
 * [Batch Tag Operations](https://github.com/windingwind/zotero-actions-tags/discussions/351)
@@ -398,9 +398,9 @@ Haddaway, N. R., Grainger, M. J., Gray, C. T. 2021. citationchaser: An R package
 
 #### Restituer les liens de citation dans Zotero
 
-Une fois les références citées et/ou citantes retrouvées, comment restituer ces liens de citation dans Zotero? Au moins deux approches sont possibles.
+Une fois les références citées et/ou citantes retrouvées, comment restituer ces liens de citation dans Zotero? Au moins deux approches, toutefois limitées à différents égards, sont possibles.
 
-La première consiste à utiliser la fonction **document connexe** pour lier les documents liés par des liens de citation. Les liens créés étant réciproques et non qualifiés, il peut toutefois être difficile de retrouver a posteriori la signification de ces liens.
+La première consiste à utiliser la fonction **Connexe** pour associer les documents liés par des liens de citation. Les liens créés étant réciproques et non qualifiés, il peut toutefois être difficile de retrouver _a posteriori_ la signification de ces liens.
 
 Une seconde approche consiste à utiliser les marqueurs, en créant par exemple un marqueur `_cite_10.000Z`, associé à toutes les références citant l'article identifié par le DOI 10.000Z.
 
@@ -435,7 +435,7 @@ Les annotations peuvent être organisées au travers de la bibliothèque grâce 
 
 Enfin, dans les **bibliothèques de groupe** les annotations de chaque contributeur sont identifiées et verrouillées : chacun ne peut modifier que ses propres annotations.
 
-![Annotation d'un PDF dans une bibliothèque de groupe, avec l'affichage du nom de l'annotateur](img/annotations_groupe.jpg)
+![Annotation d'un PDF dans une bibliothèque de groupe, avec l'affichage du nom de l'annotateur](img/annotations_groupe.jpeg)
 
 #### Ressources sur le lecteur de PDF
 
@@ -473,7 +473,7 @@ Un lien vers le rapport complet sur Scite.ai est également ajouté dans le vole
 
 [L'interaction avec Retraction Watch](https://zotero.hypotheses.org/2809) est intégrée dans Zotero et elle fonctionne sans qu'aucune installation complémentaire ne soit nécessaire. Elle vous signale les articles rétractés non seulement dans votre bibliothèque Zotero, mais également dans votre traitement de texte, par un avertissement de l'extension de traitement de texte Zotero si l'article que vous vous apprêtez à citer a été rétracté.
 
-![Notice de rétractation d'un article affiché dans la bibliothèque Zotero](img/zotero_RetWatch.jpg)
+![Notice de rétractation d'un article affiché dans la bibliothèque Zotero](img/zotero_RetWatch.jpeg)
 
 En complément de cette interaction, [l'extension PubPeer](https://github.com/PubPeerFoundation/pubpeer_zotero_plugin) affiche dans le volet central de Zotero le nombre de commentaires PubPeer reçus, et davantage de détails dans une rubrique dédiée du volet de droite.
 
