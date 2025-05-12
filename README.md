@@ -1,6 +1,6 @@
 # Zotero pour les revues de littérature
 
-Matériel de la formation "Zotero pour les revues de littérature".
+Matériel de la formation "Zotero pour les revues de littérature" - stage Urfist
 
 ## Objectifs
 
@@ -26,9 +26,8 @@ Quiz diffués par le biais du service Digistorm (merci [La Digitale](https://lad
 
 🎯 [Texte du quiz](https://github.com/fflamerie/zotero_revlit/blob/main/docs/zotero_styles_quiz.md)
 
-## Programme de la formation publié sur le site de l'Urfist
+## Programme 
 
-### Avant-propos
 Ce stage aborde l’utilité de Zotero et de ses extensions pour toutes les étapes d’une revue de littérature.
 Que vous entrepreniez seul une synthèse de la littérature ou que vous soyez impliqué dans une revue de littérature de plus grande ampleur menée en équipe, vous devrez probablement répondre aux questions suivantes. 
 
@@ -38,11 +37,10 @@ Que vous entrepreniez seul une synthèse de la littérature ou que vous soyez im
 
 Zotero et ses extensions peuvent grandement faciliter la réalisation de votre revue, en apportant à chacune de ces questions (et à bien d’autres!) une réponse efficace et fiable.
 
-### Programme
-* Introduction sur les revues de littérature : synthèses de la littérature, revues narratives et revues systématiques
-* Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero
-* Les outils de Zotero au service du travail d’analyse d’une revue de littérature
-* Rendre compte des résultats d’une revue de littérature : rappels sur les styles bibliographiques, la rédaction bibliographique et les exports de données depuis Zotero
+* Introduction sur les revues de littérature : revues narratives, revues systématiques, etc.
+* Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero : import par lot de références bibliographiques, dédoublonnage, mise à niveau des informations bibliographiques, recherche de texte intégral, etc.
+* Les outils de Zotero au service du travail d’analyse d’une revue de littérature : extensions pour le suivi des citations, lecteur de PDF
+* Rendre compte des résultats d’une revue de littérature : rappels sur les styles et la rédaction bibliographiques, création d’un format d’export CSV personnalisé
         
 ### Prérequis
 * Savoir utiliser l'interface et les principales fonctionnalités de Zotero 
