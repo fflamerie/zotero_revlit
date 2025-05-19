@@ -8,10 +8,12 @@
 ## Sommaire
 
 0. Tour de table 
-1. Introduction sur les revues de littérature : synthèses de la littérature, revues narratives et revues systématiques
-2. Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero
-3. Les outils de Zotero au service du travail d’analyse d’une revue de littérature
-4. Rendre compte des résultats d’une revue de littérature
+1. Introduction sur les revues de littérature 
+2. Le flux de travail bibliographique d'une revue de littérature avec Zotero : créer une bibliothèque et importer les données
+3. Le flux de travail bibliographique d'une revue de littérature avec Zotero : nettoyer et dédoublonner les références
+4. Le flux de travail bibliographique d'une revue de littérature avec Zotero : organiser sa bibliothèque et trouver le texte intégral
+5. Les outils de Zotero au service du travail d’analyse d’une revue de littérature
+6. Rendre compte des résultats d’une revue de littérature
 
 ## 0. Tour de table
 
@@ -28,7 +30,7 @@ Une revue de littérature peut prendre plusieurs formes, selon le cadre de la re
 
 Dans tous les cas, y compris pour une synthèse de littérature menée dans le cadre d’un travail universitaire, Zotero peut grandement faciliter la réalisation de votre revue, accompagnant votre méthodologie quel que soit le degré d’exhaustivité que vous souhaitez ou devez atteindre.
 
-## 2. Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero
+## 2. Le flux de travail bibliographique d'une revue de littérature avec Zotero : créer une bibliothèque et importer les données
 
 ### 2.1 Créer une bibliothèque de groupe
 
@@ -54,9 +56,12 @@ Vous pouvez ainsi être le seul contributeur d’un groupe dont la bibliothèque
 * Pour faciliter l'ajout des membres du groupe au démarrage d'un projet, il est recommandé de créer un groupe de type **Public, à participation restreinte** plutôt qu'un groupe privé. L'initiative de rejoindre le groupe revient ainsi aux membres et non aux administrateurs du groupe, qui se voient épargnés la collecte des noms d'utilisateur Zotero ou des adresses de courriel pour l'envoi des invitations. Dans le cas d'un groupe destiné à devenir privé, il suffit alors de modifier ce paramètre lorsque tous les membres ont rejoint le groupe.
 * Un **flux RSS** affiché sur la page de la bibliothèque en ligne du groupe permet de suivre les ajouts dans la bibliothèque. Il faut pour cela que le groupe soit public, et sa bibliothèque consultable par tous.
 
-📝 Quel type de groupe créez-vous pour votre projet de revue de littérature? Quels paramétrages vous semblent-ils nécessaires?
+![zotero][zotero] [Documentation Zotero : FAQ pour Zotero Institution Storage](https://docs.zotero-fr.org/storage_institution_faq/)
 
 ### 2.2 Importer des lots de références dans Zotero
+
+<!--à reprendre en fonction atelier Genève -> points de vigilance-->
+
 Recourir au connecteur de Zotero et cliquer sur le bouton "Save to Zotero" est la meilleure méthode pour enregistrer des documents dans votre bibliothèque au fil des recherches, lorsqu'il s'agit d'enregistrer un document après l'autre.
 
 Dans le cadre d'une revue de littérature où vous devez enregistrer d'un seul coup depuis une base de données tous les résultats d'une équation de recherche, l'import de fichier est plus adapté, car beaucoup plus rapide.
@@ -85,11 +90,26 @@ L'utilisation combinée du logiciel **[Publish or Perish](https://harzing.com/re
 
 Notez que Publish or Perish permet d'interroger d'autres sources, y compris des sources soumises à abonnement comme **Scopus**. Pour Scopus l'interrogation est gratuite jusqu'à 200 références et nécessite de disposer d'un compte gratuit Elsevier.
 
-### 2.3 Gérer les doublons avec l'extension Zoplicate
+## 3. Le flux de travail bibliographique d'une revue de littérature avec Zotero : nettoyer et dédoublonner les références 
 
-Lorsque vous affichez les doublons potentiels repérés par Zotero en cliquant sur la vue "Doublons", vous devez ensuite valider individuellement chaque doublon pour fusionner les enregistrements concurrents. Ce fonctionnement est optimal pour **éviter les faux positifs**, c'est-à-dire pour éviter de fusionner des documents proposés comme doublons potentiels mais qui ne sont pas des doublons. Cela peut toutefois être pénalisant à certaines étapes d'une revue de littérature, lorsque ce risque de faux positif est nul. Par ailleurs, l'extension [Zoplicate](https://github.com/ChenglongMa/zoplicate) offre d'autres fonctionnalités intéressantes en plus de la fusion des doublons par lot.
+Une fois les références importées dans votre bibliothèque Zotero, les étapes suivantes consistent à :
 
-#### Installer et configurer une extension
+* **nettoyer** ces références pour mettre à niveau voire compléter _a minima_ les informations bibliographiques,
+* **dédoublonner** ces références.
+
+Effectuer un nettoyage minimal avant le dédoublonnage améliorera la détection automatique des doublons.
+
+Pour mesurer les apports des différentes extensions que nous allons voir ensemble, nous allons travailler sur une base test de 40 références. Importez [le fichier de cette base au format Zotero RDF](https://raw.githubusercontent.com/fflamerie/zotero_revlit/main/docs/zotero_RevLit_IMPORT.rdf) dans votre bibliothèque Zotero. 
+
+📝 Quel est votre diagnostic? Combien de doublons repérez-vous? Quelles sont les informations bibliographiques à corriger?
+
+🛠️ Téléchargez et installez les extensions que nous allons voir au cours de la formation.
+
+* [Linter](https://github.com/northword/zotero-format-metadata)
+* [Actions & Tags](https://github.com/windingwind/zotero-actions-tags)
+* [Zoplicate](https://github.com/ChenglongMa/zoplicate)
+
+### Rappel : comment installer et configurer une extension dans Zotero
 
 L’installation d’une extension dans Zotero consiste à charger dans Zotero un fichier d’un format particulier, le format `.xpi`. Voici les étapes à suivre.
 
@@ -108,28 +128,8 @@ Sur GitHub, on trouve le plus souvent le fichier d'installation `.xpi` sur la pa
 
 ![Rubrique Releases sur la page du dépôt GitHub d'une extension](img/zotero_modules_releases.png)
 
-🛠️ Téléchargez et installez les extensions que nous allons voir au cours de la formation.
 
-* [Zoplicate](https://github.com/ChenglongMa/zoplicate)
-* [Linter](https://github.com/northword/zotero-format-metadata)
-* [Actions & Tags](https://github.com/windingwind/zotero-actions-tags)
-
-#### Zoplicate
-
-Zoplicate optimise la gestion des doublons grâce aux fonctionnalités suivantes, qui peuvent être utilisées de façon combinée ou dissociée.
-
-* **Détection des doublons à l'import et choix de la décision à appliquer** : conserver les deux documents, les fusionner et choisir le document existant comme document maître, les fusionner et choisir le document importé comme document maître, demander pour chaque cas.
-* **Fusion par lot des doublons et paramétrage du document maître** : utiliser comme document maître le document le plus ancien, le plus récent, le document modifié le plus récemment, le plus détaillé.
-* **Affichage du nombre de doublons** dans le volet de gauche de Zotero.
-* Marquage des faux positifs comme **"non doublons"**, ce qui les fait disparaître de la vue "Doublons".
-
-![Fenêtre de paramétrage de Zoplicate](img/zoplicate_parametres.jpeg)
-
-![La vue doublons avec Zoplicate : affichage du nombre de doublons et options supplémentaires de gestion des doublons dans le volet de gauche de Zotero](img/zoplicate_vue_doublons.jpeg)
-
-📝 Importez le fichier **test_zoplicate.bib** dans Zotero. Quels paramétrages et fonctionnalités de Zoplicate utilisez-vous pour traiter ce lot? [Télécharger le fichier "test_zoplicate.bib"](https://raw.githubusercontent.com/fflamerie/zotero_revlit/main/docs/test_zoplicate.bib)
-
-### 2.4 Compléter et mettre à niveau les informations bibliographiques avec l'extension Linter
+### 3.1 Nettoyer et compléter les informations bibliographiques avec l'extension Linter
 
 A l'instar des bouloches qui témoignent de l'usure d'un vêtement, les multiples petites imperfections que _Linter_ corrige viennent ternir l'aspect de votre bibliothèque Zotero.
 
@@ -152,9 +152,11 @@ Zotero 7 intègre désormais certaines de ces corrections, mais _Linter_ apporte
 * Pour les **titres**, _Linter_ ajoute à la fonctionnalité de Zotero de conversion automatique de la casse de titre vers la casse de phrase la prise en compte de certains noms propres (notamment les formules chimiques).
 * Pour les **titres de revues**, il s'agit d'appliquer la casse de titre.
 
-⚠️ Il n'est pas d'usage d'utiliser la casse de titre pour les titres de revues françaises, aussi il est plus prudent d'exclure cette option de la commande _Lint and Fix_ si vous citez beaucoup d'articles de revues françaises.   
+⚠️ Les titres de revues françaises n'utilisent pas systématiquement la casse de titre, aussi il est plus prudent d'exclure cette option de la commande _Lint and Fix_ si vous citez beaucoup d'articles de revues françaises.   
 
-#### Corriger les abréviations de revue
+#### Corriger les abréviations de titre de revue
+
+<!--à corriger, corriger aussi la formation Extensions-->
 
 _Linter_ peut compléter et/ou corriger le champ "Abrév. de revue" automatiquement, en fonction de l'une des options suivantes.
 
@@ -184,7 +186,7 @@ Avec _Linter_, les raccourcis clavier courants (ceux de Microsoft Word par exemp
 
 ⚠️ Cette fonctionnalité n'est pas intégrée aux commandes _Lint_. Elle ne fait pas l'objet de réglages dans les paramètres de _Linter_.
 
-### 2.5 Apports de l'extension Actions & Tags pour mettre à niveau les informations bibliographiques et organiser son flux de travail
+### 3.2 Mettre à niveau les informations bibliographiques et organiser son flux de travail avec l'extension Actions & Tags
 
 #### Aperçu
 
@@ -284,12 +286,32 @@ Il existe déjà des scripts personnalisés, créés par des utilisateurs ou par
 
 📝 Nous installons ensemble le script personnalisé [Bulk Edit Multiple Items](https://github.com/windingwind/zotero-actions-tags/discussions/343) ; vous choisissez les libellés et/ou le raccourci-clavier qui vous conviennent le mieux. 
 
-📝 Voici 2 exemples de scripts personnalisés. Vous sembleraient-ils utiles pour votre revue littérature? En repérez-vous d'autres dans [la liste complète des scripts personnalisés référencés](https://github.com/windingwind/zotero-actions-tags/discussions/categories/action-scripts)?
+📝 Voici 3 exemples de scripts personnalisés. Vous sembleraient-ils utiles pour votre revue littérature? En repérez-vous d'autres dans [la liste complète des scripts personnalisés référencés](https://github.com/windingwind/zotero-actions-tags/discussions/categories/action-scripts)?
 
 * [Collection Tags](https://github.com/windingwind/zotero-actions-tags/discussions/245)
 * [Batch Tag Operations](https://github.com/windingwind/zotero-actions-tags/discussions/351)
+* [Backup Attachment(s)](https://github.com/windingwind/zotero-actions-tags/discussions/347)
 
-### 2.6 Organiser la bibliothèque avec les marqueurs et les recherches enregistrées
+### 3.3 Gérer les doublons avec l'extension Zoplicate
+
+<!--voir si avertissement v 3.0.5 toujours d'actualité + ajouter comparatif PICO Portal et Rayyan-->
+
+Lorsque vous affichez les doublons potentiels repérés par Zotero en cliquant sur la vue "Doublons", vous devez ensuite valider individuellement chaque doublon pour fusionner les enregistrements concurrents. Ce fonctionnement est optimal pour **éviter les faux positifs**, c'est-à-dire pour éviter de fusionner des documents proposés comme doublons potentiels mais qui ne sont pas des doublons. Cela peut toutefois être pénalisant à certaines étapes d'une revue de littérature, lorsque ce risque de faux positif est nul. Par ailleurs, l'extension [Zoplicate](https://github.com/ChenglongMa/zoplicate) offre d'autres fonctionnalités intéressantes en plus de la fusion des doublons par lot.
+
+Zoplicate optimise la gestion des doublons grâce aux fonctionnalités suivantes, qui peuvent être utilisées de façon combinée ou dissociée.
+
+* **Détection des doublons à l'import et choix de la décision à appliquer** : conserver les deux documents, les fusionner et choisir le document existant comme document maître, les fusionner et choisir le document importé comme document maître, demander pour chaque cas.
+* **Fusion par lot des doublons et paramétrage du document maître** : utiliser comme document maître le document le plus ancien, le plus récent, le document modifié le plus récemment, le plus détaillé.
+* **Affichage du nombre de doublons** dans le volet de gauche de Zotero.
+* Marquage des faux positifs comme **"non doublons"**, ce qui les fait disparaître de la vue "Doublons".
+
+![Fenêtre de paramétrage de Zoplicate](img/zoplicate_parametres.jpeg)
+
+![La vue doublons avec Zoplicate : affichage du nombre de doublons et options supplémentaires de gestion des doublons dans le volet de gauche de Zotero](img/zoplicate_vue_doublons.jpeg)
+
+
+## 4. Le flux de travail bibliographique d'une revue de littérature avec Zotero : organiser sa bibliothèque et trouver le texte intégral 
+### 4.1 Organiser sa bibliothèque avec les marqueurs et les recherches enregistrées
 Zotero dispose de plusieurs outils pour organiser une bibliothèque :
 
 * les **collections** -> plus ou moins des dossiers, plutôt des listes de lecture,
@@ -302,10 +324,11 @@ Zotero dispose de plusieurs outils pour organiser une bibliothèque :
 
 Pourquoi privilégier les marqueurs plutôt que les collections?
 
-On peut avancer 2 raisons principales.
+On peut avancer 3 raisons principales.
 
 * **Lisibilité** : grâce aux **marqueurs colorés** vous visualisez rapidement tous les documents associés à un marqueur. Vous pouvez de plus facilement **filtrer** vos marqueurs dans le sélecteur de marqueurs. Cela autorise à en créer beaucoup sans risque de confusion : vous pouvez envisager de recourir à un système de marqueurs pour suivre vos décisions d'exclusion, en indiquant également le stade et le motif, par exemple **_EXCLU_TitAbs_C1** pour un article exclu au stade du tri sur titre/résumé, sur le premier critère d'exclusion.
 * **Portabilité** : les marqueurs font partie des informations bibliographiques du document et sont ainsi, par exemple, exportés au même titre que toutes les autres informations bibliographiques lorsque vous exportez des documents dans un fichier au format .ris, . csv, etc. Les collections et les recherches enregistrées relèvent en revanche de **l'interface** de votre bibliothèque, l'information du classement dans une collection n'est pas enregistrée en tant qu'information bibliographique du document.
+* **Gestion automatisée** : grâce aux scripts d'Actions & Tags mentionnés ci-dessous, on peut facilement gérer une quantité importante de marqueurs, les scinder, les supprimer de façon globale ou sélective, etc. [L'extension Zutilo](https://github.com/wshanks/Zutilo/blob/master/i18n/fr/readme/docs/COMMANDS.md) permet quant à elle de copier tous les marqueurs associés à une référence et de les coller vers une ou plusieurs références.
 
 #### Conserver ou non les marqueurs enregistrés automatiquement?
 
@@ -330,17 +353,17 @@ Pour retrouver toutes les références pour lesquelles un champ est vide, par ex
 Résumé -- Ne contient pas -- %
 ```
 
-### 2.7 Optimiser la recherche du texte intégral
+### 4.2 Optimiser la recherche du texte intégral
 
 Zotero dispose de fonctionnalités par défaut pour rechercher et enregistrer automatiquement le texte intégral, telles que les suivantes.
 
 * **L'enregistrement automatique du PDF présent sur une page web** lorsque vous utilisez le connecteur Zotero (bouton Zotero dans votre navigateur).
-* La détection et l'enregistrement automatiques du **proxy de l'université** pour vous rediriger vers les accès souscrits par l'université lorsque vous naviguez sur les sites des éditeurs - voir [Documentation Zotero : Les préférences du connecteur Zotero > Préférences pour les serveurs mandataires](https://www.zotero.org/support/fr/connector_preferences?do=#preferences_pour_les_serveurs_mandataires).
+* La détection et l'enregistrement automatiques du **proxy de votre établissement** pour vous rediriger vers les accès souscrits par cet dernier lorsque vous naviguez sur les sites des éditeurs - voir [Documentation Zotero : Les préférences du connecteur Zotero > Préférences pour les serveurs mandataires](https://www.zotero.org/support/fr/connector_preferences?do=#preferences_pour_les_serveurs_mandataires).
 * La recherche automatique de **PDF disponibles en libre accès** grâce à Unpaywall - [description de la fonctionnalité sur le blog Zotero francophone](https://zotero.hypotheses.org/2130).
 
 Deux fonctionnalités complémentaires vous permettent d'augmenter ces fonctions de recherche. Elles sont toutes les 2 accessibles depuis **le menu _Localiser_**, c'est-à-dire la flèche entourée d'un cercle en bas de la barre de raccourcis du panneau de droite. Il s'agit de :
 
-* la **configuration OpenURL** de votre établissement de rattachement,
+* la **configuration OpenURL** de votre établissement,
 * la personnalisation des **moteurs de recherche intégrés à Zotero**.
 
 ![bouton_localiser](img/bouton_localiser.png)
@@ -360,17 +383,17 @@ Ces moteurs de recherche vous permettent de lancer une recherche dans diverses s
 
 Pour en savoir plus concernant la personnalisation des moteurs de recherche, consultez le billet du blog Zotero francophone [Les moteurs de recherche intégrés à Zotero](https://zotero.hypotheses.org/3388).
 
-##### Installer un fichier de moteurs de recherche préconfigurés
+##### Installer un fichier de moteurs de recherche préconfiguré
 
 📝 Plusieurs fichiers de moteurs de recherche préconfigurés sont disponibles en annexe au billet du blog Zotero francophone précédemment cité, ils sont disponibles sur [le dépôt GitHub du blog](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-05-moteurs) .
 
-Choisissez celui qui vous semble le plus adapté à vos besoins et installez-le dans Zotero, en suivant les indications fournies
+Choisissez celui qui vous semble le plus adapté à vos besoins et installez-le dans Zotero, en suivant les indications fournies.
 
 ℹ️ Rappel : pour accéder à votre répertoire de données Zotero depuis les _Paramètres_ de Zotero, cliquez sur : _Avancé_ > _Fichiers et dossiers_ > _Ouvrir le répertoire de données_.
 
-## 3. Les outils de Zotero au service du travail d’analyse d’une revue de littérature
+## 5. Les outils de Zotero au service du travail d’analyse d’une revue de littérature
 
-### 3.1 Enregistrer les liens de citation dans Zotero 
+### 5.1 Enregistrer les liens de citation dans Zotero 
 
 La recherche de citations, ou _snowballing_, fait partie des méthodes de recherche bibliographique utilisables pour une revue de littérature ; elle peut être requise. Cette recherche peut s'entendre dans les deux sens de citation, en amont et en aval, et porter par conséquent sur les références citées et/ou citantes.
 
@@ -402,9 +425,9 @@ Une fois les références citées et/ou citantes retrouvées, comment restituer 
 
 La première consiste à utiliser la fonction **Connexe** pour associer les documents liés par des liens de citation. Les liens créés étant réciproques et non qualifiés, il peut toutefois être difficile de retrouver _a posteriori_ la signification de ces liens.
 
-Une seconde approche consiste à utiliser les marqueurs, en créant par exemple un marqueur `_cite_10.000Z`, associé à toutes les références citant l'article identifié par le DOI 10.000Z.
+Une seconde approche consiste à utiliser les marqueurs, en créant par exemple un marqueur `_cite_10.000Z`, associé à toutes les références qui citent l'article identifié par le DOI 10.000Z.
 
-### 3.2 Annoter ses PDF avec Zotero
+### 4.2 Annoter ses PDF avec Zotero
 
 #### Le lecteur de PDF
 
@@ -447,7 +470,7 @@ Enfin, dans les **bibliothèques de groupe** les annotations de chaque contribut
 
 Heimburger, F. (2022, avril 21). Découvrir Zotero 6 - Le lecteur de pdf et la prise de notes en vidéo. La boîte à outils des historien·ne·s. https://boiteaoutils.info/2022/04/decouvrir-zotero-6-le-lecteur-de-pdf-et-la-prise-de-notes-en-video/
 
-### 3.3 Services complémentaires 
+### 5.3 Services complémentaires 
 Parmi les services complémentaires que peut vous offrir Zotero, on retient notamment les suivants, à l'appui d'une part du **suivi des citations reçues** et d'autre part du **repérage des articles frauduleux**.
 
 #### Extensions Scite et Citation Counts Manager
@@ -479,8 +502,8 @@ En complément de cette interaction, [l'extension PubPeer](https://github.com/Pu
 
 ![Affichage des données de PubPeer dans le volet central et dans le volet de droite de Zotero](img/pubpeer.PNG)
 
-## 4. Rendre compte des résultats d’une revue de littérature
-### 4.1 Rappels sur les styles bibliographiques et la rédaction bibliographique
+## 6. Rendre compte des résultats d’une revue de littérature
+### 6.1 Rappels sur les styles bibliographiques et la rédaction bibliographique
 
 🎯 Quiz : les styles bibliographiques
 
@@ -542,7 +565,7 @@ ZoteroPreview affiche un aperçu de la citation et/ou de l'entrée bibliographiq
 
 ![ZoteroPreview : la prévisualisation d'un document et les boutons de copie](img/zotero_preview_ref.png)
 
-La section _ZoteroPreview_ des  _Paramètres_ de Zotero, ajoutée lors de l'installation de l'extension, permet de définir :
+La section _ZoteroPreview_ des _Paramètres_ de Zotero, ajoutée lors de l'installation de l'extension, permet de définir :
 
 * le style bibliographique à appliquer,
 * la position de l'aperçu dans le panneau de droite (en haut, en bas ou après la section Info),
@@ -554,7 +577,7 @@ La section _ZoteroPreview_ des  _Paramètres_ de Zotero, ajoutée lors de l'inst
 
 Quel que soit l'outil et la méthode utilisés pour comparer des styles, il importe de s'assurer de deux points afin que la comparaison soit significative et utile.
 
-Tout d'abord, assurez-vous que les documents que vous utilisez comme exemples reflètent la **diversité de types de documents** que vous allez citer (article, chapitre, mais aussi thèse ou encore brevet ou film) : vous vérifierez ainsi que tous ces types sont bien pris en charge par les styles que vous comparez.
+Tout d'abord, assurez-vous que les documents que vous sélectionnez comme exemples reflètent la **diversité de types de documents** que vous allez citer (article, chapitre, mais aussi thèse ou encore brevet ou film) : vous vérifierez ainsi que tous ces types sont bien pris en charge par les styles que vous comparez.
 
 Ensuite, et surtout, assurez-vous que ces documents sont complets et exacts dans votre bibliothèque Zotero.
 
@@ -591,14 +614,11 @@ Deux billets du blog Zotero francophone pourront vous aider si vous souhaitez vo
 
 #### Citer avec Zotero : les extensions de traitement de texte et les autres outils
 
-Zotero dispose de différents outils pour générer des listes bibliographiques, qu'il s'agisse de produire [un rapport](https://docs.zotero-fr.org/reports), une [bibliographie indépendante](https://docs.zotero-fr.org/creating_bibliographies/#menu-contextuel-pour-creer-une-citationbibliographie), la liste des références citées ou encore d'[insérer quelques références](https://docs.zotero-fr.org/creating_bibliographies/#copie-rapide) dans un courriel ou un diaporama .
+Zotero dispose de différents outils pour générer des listes bibliographiques, qu'il s'agisse de produire [un rapport](https://docs.zotero-fr.org/reports), une [bibliographie indépendante](https://docs.zotero-fr.org/creating_bibliographies/#menu-contextuel-pour-creer-une-citationbibliographie) ou la liste récapitulative des références citées, ou encore qu'il s'agisse [d'insérer quelques références dans un courriel ou un diaporama](https://docs.zotero-fr.org/creating_bibliographies/#copie-rapide).
 
-[Les extensions de traitement de texte](https://docs.zotero-fr.org/word_processor_integration/#les-extensions-pour-logiciel-de-traitement-de-texte) sont l'outil le plus adapté pour produire la liste récapitulative des références citées dans un texte. Elles disposent de plus de fonctionnalités spécifiques, telles que **l'abréviation automatique des titres de revue**. Ainsi si vous devez rédiger une bibliographie indépendante dans laquelle les titres de revue sont abrégés, le plus efficace pourrait bien être d'effectuer un détour par l'extension de traitement de texte en :
-* insérant en citations Zotero toutes les références à inclure dans la bibliographie,
-* puis en insérant la bibliographie,
-* et enfin en supprimant les codes de champ.
+[Les extensions de traitement de texte](https://docs.zotero-fr.org/word_processor_integration/#les-extensions-pour-logiciel-de-traitement-de-texte) sont l'outil le plus adapté pour produire la liste récapitulative des références citées dans un texte. 
 
-Un dernier point mérite d'être souligné s'agissant des extensions de traitement de texte, à savoir [les limitations de l'intégration Google Scholar](https://docs.zotero-fr.org/google_docs/#limitations), qui imposent une vigilance particulière si vous choisissez ce service pour la rédaction collaborative. Si la rédaction collaborative n'est pas une nécessité, alors il est préférable de recourir à un traitement de texte local pris en charge par Zotero.
+Il convient de souligner [les limitations de l'intégration Google Scholar](https://docs.zotero-fr.org/google_docs/#limitations), qui imposent une vigilance particulière si vous choisissez ce service pour la rédaction collaborative. Si la rédaction collaborative n'est pas une nécessité, alors il est préférable de recourir à un traitement de texte local pris en charge par Zotero.
 
 #### Reference Extractor pour visualiser dans sa bibliothèque Zotero les documents cités dans un fichier de traitement de texte
 
@@ -614,7 +634,7 @@ Ce n’est pas tant cette fonctionnalité d’extraction que celle de sélection
 
 ![Interface de Reference Extractor, avec mise en valeur de l'option de sélection des documents dans la  bibliothèque](img/zotero_ref_extract_01.png)
 
-### 4.2 Rappels sur les exports de données de Zotero : formats CSV, etc.
+### 6.2 Rappels sur les exports de données de Zotero : formats CSV, etc.
 
 De même qu'il prend en charge de nombreux formats d'import, Zotero propose de multiples format d'export. Outre les formats bibliographiques, il propose également un export CSV.
 
