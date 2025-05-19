@@ -12,13 +12,10 @@ Matériel de la formation "Zotero pour les revues de littérature" - stage Urfis
 * [Supplément au stage du 2025-04-14](https://github.com/fflamerie/zotero_revlit/blob/main/docs/zotero_RevLit_SUPPL_20250414.md)
 
 ## Exercices
-### Exercice pré-formation (Urfist Occitanie)
-  * [Enoncé](https://github.com/fflamerie/zotero_revlit/blob/main/docs/Exercices_preformation_Zotero_RevLit_diff.odt)
-  * [fichier .bib à importer](https://github.com/fflamerie/zotero_revlit/blob/main/docs/import_Zotero_RevLit.bib)
 
-#### Dédoublonnage avec Zoplicate
+### Diagnostic, nettoyage et dédoublonnage d'une base test
 
-[Fichier test .bib à importer dans Zotero](https://github.com/fflamerie/zotero_revlit/blob/main/docs/test_zoplicate.bib)
+[Base test de 40 références au format Zotero RDF](https://raw.githubusercontent.com/fflamerie/zotero_revlit/main/docs/zotero_RevLit_IMPORT.rdf)
 
 ### Quiz sur les styles bibliographiques
 
@@ -38,12 +35,12 @@ Que vous entrepreniez seul une synthèse de la littérature ou que vous soyez im
 Zotero et ses extensions peuvent grandement faciliter la réalisation de votre revue, en apportant à chacune de ces questions (et à bien d’autres!) une réponse efficace et fiable.
 
 * Introduction sur les revues de littérature : revues narratives, revues systématiques, etc.
-* Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero : import par lot de références bibliographiques, dédoublonnage, mise à niveau des informations bibliographiques, recherche de texte intégral, etc.
+* Organiser le flux de travail bibliographique d'une revue de littérature avec Zotero : import par lot de références bibliographiques, mise à niveau des informations bibliographiques, dédoublonnage, recherche de texte intégral, etc.
 * Les outils de Zotero au service du travail d’analyse d’une revue de littérature : extensions pour le suivi des citations, lecteur de PDF
 * Rendre compte des résultats d’une revue de littérature : rappels sur les styles et la rédaction bibliographiques, création d’un format d’export CSV personnalisé
         
 ### Prérequis
-* Savoir utiliser l'interface et les principales fonctionnalités de Zotero 
+* Savoir utiliser l'interface et les principales fonctionnalités de Zotero : gérer une bibliothèque de références bibliographiques et de PDF, citer avec Zotero, afficher le répertoire de données Zotero sur son ordinateur, etc. 
 * Utiliser régulièrement Zotero
       
 ***
