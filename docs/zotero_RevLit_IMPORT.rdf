@@ -1,0 +1,2370 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="https://research.ebsco.com/linkprocessor/plink?id=bc5aed99-8e94-37b2-8031-8d9f812195a6">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0095-7356"/>
+        <dc:title>Appendix E: Alternative Approaches for Deriving Energy Contents of Noncombustible Renewables.</dc:title>
+        <dcterms:abstract>The article focuses on various approaches for calculating the energy content of noncombustible renewables, such as hydroelectric, geothermal, solar, and wind energy, which are used to generate electricity. Topics covered include the fossil fuel equivalency approach, the captured energy approach, and the incident energy approach, each of which provides a different perspective on estimating the energy value of these renewable sources.</dcterms:abstract>
+        <dc:date>2023-08</dc:date>
+        <z:language>eng</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://research.ebsco.com/linkprocessor/plink?id=bc5aed99-8e94-37b2-8031-8d9f812195a6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>251–255</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0095-7356">
+        <dc:title>Monthly Energy Review</dc:title>
+        <dc:identifier>ISSN 0095-7356</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://research.ebsco.com/linkprocessor/plink?id=072d7747-6f14-3b7f-946f-5b80141d8a61">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Monthly Energy Review</dc:title>
+                <dc:identifier>ISSN 0095-7356</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Appendix E : Alternative Approaches for Deriving Energy Contents of Noncombustible Renewables.</dc:title>
+        <dcterms:abstract>The article presents alternative approaches for deriving energy contents of noncombustible renewables. It mentions that in order to calculate primary energy consumption U.S. Energy Information Administration (EIA) compiles data on most energy sources in physical units like barrel and cubic feet; data for different energy sources is converted to common British thermal unit (Btu), and discussed three approaches for converting electricity to Btu.</dcterms:abstract>
+        <dc:date>2022-09</dc:date>
+        <z:language>eng</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://research.ebsco.com/linkprocessor/plink?id=072d7747-6f14-3b7f-946f-5b80141d8a61</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>245–249</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_42256">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Monthly Energy Review</dc:title>
+                <dc:identifier>ISSN 0095-7356</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Appendix E: Alternative Approaches for Deriving Energy Contents of Noncombustible Renewables.</dc:title>
+        <dcterms:abstract>The article focuses on various approaches for calculating the energy content of noncombustible renewables, such as hydroelectric, geothermal, solar, and wind energy, which are used to generate electricity. Topics covered include the fossil fuel equivalency approach, the captured energy approach, and the incident energy approach, each of which provides a different perspective on estimating the energy value of these renewable sources.</dcterms:abstract>
+        <dc:date>2023-08</dc:date>
+        <z:language>eng</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://research.ebsco.com/linkprocessor/plink?id=bc5aed99-8e94-37b2-8031-8d9f812195a6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>251–255</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="#item_42494">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Monthly Energy Review</dc:title>
+                <dc:identifier>ISSN 0095-7356</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dcterms:isReferencedBy rdf:resource="#item_42495"/>
+        <dc:title>Appendix E : Alternative Approaches for Deriving Energy Contents of Noncombustible Renewables.</dc:title>
+        <dcterms:abstract>The article presents alternative approaches for deriving energy contents of noncombustible renewables. It mentions that in order to calculate primary energy consumption U.S. Energy Information Administration (EIA) compiles data on most energy sources in physical units like barrel and cubic feet; data for different energy sources is converted to common British thermal unit (Btu), and discussed three approaches for converting electricity to Btu.</dcterms:abstract>
+        <dc:date>2022-09</dc:date>
+        <z:language>en</z:language>
+        <bib:pages>245–249</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_42495">
+        <rdf:value>&lt;p&gt;Publisher: Superintendent of Documents&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="urn:isbn:978-989-97050-4-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>ICEE international conference on energy &amp; environment</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-989-97050-4-3</dc:identifier>
+                <dc:title>PROCEEDINGS OF THE 2ND INTERNATIONAL CONFERENCE ON ENERGY &amp; ENVIRONMENT: BRINGING TOGETHER ENGINEERING AND ECONOMICS</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Botelho</foaf:surname>
+                        <foaf:givenName>Anabela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lourenco-Gomes</foaf:surname>
+                        <foaf:givenName>Lina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Costa Pinto</foaf:surname>
+                        <foaf:givenName>Ligia M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sousa</foaf:surname>
+                        <foaf:givenName>Patricia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sousa</foaf:surname>
+                        <foaf:givenName>Sara</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valente</foaf:surname>
+                        <foaf:givenName>Marieta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ferreira, P and Soares, I</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_44601"/>
+        <dc:title>ASSESSING ENVIRONMENTAL IMPACTS OF DAMS IN PORTUGAL: AN APPLICATION OF CHOICE EXPERIMENTS</dc:title>
+        <dcterms:abstract>Despite the well-known benefits for water and energy supply, flood management and irrigation, dams in Portugal are responsible for some adverse impacts on the natural and social environments of the local communities, including biodiversity limitation, impacts on fauna and flora, eventual flooding of large areas of cultivable land, water quality degradation, noise, landscape intrusion, and eventual destruction of architectural, historical and archaeological sites. These environmental damages have not been included in cost-benefit analyses (CBA) of hydropower developments mainly because their economic value is difficult to determine, since there are no markets for the environmental goods and services impacted and, therefore, prices are not available. Nevertheless, the inexistence of prices for these environmental impacts does not necessarily mean they have no value. The prime objective of this paper is to measure the economic values of several environmental impacts of the dams' operation in Portugal, using a discrete choice experiment (DCE) approach.</dcterms:abstract>
+        <dc:date>2015</dc:date>
+        <bib:pages>149–153</bib:pages>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_44601">
+        <rdf:value>&lt;p&gt;ISSN: 2183-3982 tex.orcid-numbers: Valente, Marieta/0000-0003-3332-8945 Pinto, Ligia/0000-0001-7089-2663 tex.organization: Univ Minho, Sch Engn; Univ Porto, Sch Econ &amp;amp; Management tex.researcherid-numbers: Pinto, Ligia/AAC-3057-2019 Valente, Marieta/Y-7224-2019 Pinto, Ligia/R-6430-2019 Lourenco-Gomes, Lina/AAM-5288-2020 tex.unique-id: ISI:000379409300019&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="#item_44602">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2054-5703"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alexandrov</foaf:surname>
+                        <foaf:givenName>Dmitri V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bashkirtseva</foaf:surname>
+                        <foaf:givenName>Irina A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ryashko</foaf:surname>
+                        <foaf:givenName>Lev B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Noise-induced transitions and shifts in a climate-vegetation feedback model</dc:title>
+        <dcterms:abstract>Motivated by the extremely important role of the Earth's vegetation dynamics in climate changes, we study the stochastic variability of a simple climate-vegetation system. In the case of deterministic dynamics, the system has one stable equilibrium and limit cycle or two stable equilibria corresponding to two opposite (cold and warm) climate-vegetation states. These states are divided by a separatrix going across a point of unstable equilibrium. Some possible stochastic scenarios caused by different externally induced natural and anthropogenic processes inherit properties of deterministic behaviour and drastically change the system dynamics. We demonstrate that the system transitions across its separatrix occur with increasing noise intensity. The climate-vegetation system therewith fluctuates, transits and localizes in the vicinity of its attractor. We show that this phenomenon occurs within some critical range of noise intensities. A noise-induced shift into the range of smaller global average temperatures corresponding to substantial oscillations of the Earth's vegetation cover is revealed. Our analysis demonstrates that the climate-vegetation interactions essentially contribute to climate dynamics and should be taken into account in more precise and complex models of climate variability.</dcterms:abstract>
+        <dc:date>2018-04</dc:date>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2054-5703">
+        <prism:volume>5</prism:volume>
+        <dc:title>ROYAL SOCIETY OPEN SCIENCE</dc:title>
+        <dc:identifier>DOI 10.1098/rsos.171531</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 2054-5703</dc:identifier>
+    </bib:Journal>
+    <bib:Book rdf:about="https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029823599&amp;doi=10.17226%2f23479&amp;partnerID=40&amp;md5=5c457334c5e9a4c239a8eff9c8f835c6">
+        <z:itemType>book</z:itemType>
+        <dcterms:isReferencedBy rdf:resource="#item_44604"/>
+        <dc:title>Approaches to Understanding the Cumulative Effects of Stressors on Marine Mammals</dc:title>
+        <dc:date>2017</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scopus.com/inward/record.uri?eid=2-s2.0-85029823599&amp;doi=10.17226%2f23479&amp;partnerID=40&amp;md5=5c457334c5e9a4c239a8eff9c8f835c6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>DOI: 10.17226/23479</dc:description>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_44604">
+        <rdf:value>&lt;p&gt;Publication Title: Approaches to Understanding the Cumulative Effects of Stressors on Marine Mammals&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="#item_44607">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>ROYAL SOCIETY OPEN SCIENCE</dc:title>
+                <dc:identifier>DOI 10.1098/rsos.171531</dc:identifier>
+                <prism:number>4</prism:number>
+                <dc:identifier>ISSN 2054-5703</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alexandrov</foaf:surname>
+                        <foaf:givenName>Dmitri V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bashkirtseva</foaf:surname>
+                        <foaf:givenName>Irina A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ryashko</foaf:surname>
+                        <foaf:givenName>Lev B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Noise-induced transitions and shifts in a climate-vegetation feedback model</dc:title>
+        <dcterms:abstract>Motivated by the extremely important role of the Earth's vegetation dynamics in climate changes, we study the stochastic variability of a simple climate-vegetation system. In the case of deterministic dynamics, the system has one stable equilibrium and limit cycle or two stable equilibria corresponding to two opposite (cold and warm) climate-vegetation states. These states are divided by a separatrix going across a point of unstable equilibrium. Some possible stochastic scenarios caused by different externally induced natural and anthropogenic processes inherit properties of deterministic behaviour and drastically change the system dynamics. We demonstrate that the system transitions across its separatrix occur with increasing noise intensity. The climate-vegetation system therewith fluctuates, transits and localizes in the vicinity of its attractor. We show that this phenomenon occurs within some critical range of noise intensities. A noise-induced shift into the range of smaller global average temperatures corresponding to substantial oscillations of the Earth's vegetation cover is revealed. Our analysis demonstrates that the climate-vegetation interactions essentially contribute to climate dynamics and should be taken into account in more precise and complex models of climate variability.</dcterms:abstract>
+        <dc:date>2018-04</dc:date>
+    </bib:Article>
+    <bib:Article rdf:about="#item_44608">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Monthly Energy Review</dc:title>
+                <dc:identifier>ISSN 0095-7356</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dcterms:isReferencedBy rdf:resource="#item_44609"/>
+        <dc:title>Appendix E: Alternative Approaches for Deriving Energy Contents of Noncombustible Renewables.</dc:title>
+        <dcterms:abstract>The article focuses on various approaches for calculating the energy content of noncombustible renewables, such as hydroelectric, geothermal, solar, and wind energy, which are used to generate electricity. Topics covered include the fossil fuel equivalency approach, the captured energy approach, and the incident energy approach, each of which provides a different perspective on estimating the energy value of these renewable sources.</dcterms:abstract>
+        <dc:date>2023-08</dc:date>
+        <z:language>eng</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://research.ebsco.com/linkprocessor/plink?id=bc5aed99-8e94-37b2-8031-8d9f812195a6</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>251–255</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_44609">
+        <rdf:value>&lt;p&gt;Publisher: Superintendent of Documents&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="#item_44610">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Monthly Energy Review</dc:title>
+                <dc:identifier>ISSN 0095-7356</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dcterms:isReferencedBy rdf:resource="#item_44611"/>
+        <dc:title>Appendix E : Alternative Approaches for Deriving Energy Contents of Noncombustible Renewables.</dc:title>
+        <dcterms:abstract>The article presents alternative approaches for deriving energy contents of noncombustible renewables. It mentions that in order to calculate primary energy consumption U.S. Energy Information Administration (EIA) compiles data on most energy sources in physical units like barrel and cubic feet; data for different energy sources is converted to common British thermal unit (Btu), and discussed three approaches for converting electricity to Btu.</dcterms:abstract>
+        <dc:date>2022-09</dc:date>
+        <z:language>eng</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://research.ebsco.com/linkprocessor/plink?id=072d7747-6f14-3b7f-946f-5b80141d8a61</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>245–249</bib:pages>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_44611">
+        <rdf:value>&lt;p&gt;Publisher: Superintendent of Documents&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://royalsocietypublishing.org/doi/10.1098/rsos.171531">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>Royal Society Open Science</dc:title>
+                <dc:identifier>DOI 10.1098/rsos.171531</dc:identifier>
+                <prism:number>4</prism:number>
+                <dc:identifier>ISSN 2054-5703</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alexandrov</foaf:surname>
+                        <foaf:givenName>Dmitri V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bashkirtseva</foaf:surname>
+                        <foaf:givenName>Irina A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ryashko</foaf:surname>
+                        <foaf:givenName>Lev B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Noise-induced transitions and shifts in a climate–vegetation feedback model</dc:title>
+        <dcterms:abstract>Motivated by the extremely important role of the Earth’s vegetation dynamics in climate changes, we study the stochastic variability of a simple climate–vegetation system. In the case of deterministic dynamics, the system has one stable equilibrium and limit cycle or two stable equilibria corresponding to two opposite (cold and warm) climate–vegetation states. These states are divided by a separatrix going across a point of unstable equilibrium. Some possible stochastic scenarios caused by different externally induced natural and anthropogenic processes inherit properties of deterministic behaviour and drastically change the system dynamics. We demonstrate that the system transitions across its separatrix occur with increasing noise intensity. The climate–vegetation system therewith fluctuates, transits and localizes in the vicinity of its attractor. We show that this phenomenon occurs within some critical range of noise intensities. A noise-induced shift into the range of smaller global average temperatures corresponding to substantial oscillations of the Earth’s vegetation cover is revealed. Our analysis demonstrates that the climate–vegetation interactions essentially contribute to climate dynamics and should be taken into account in more precise and complex models of climate variability.</dcterms:abstract>
+        <dc:date>2018-04</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://royalsocietypublishing.org/doi/10.1098/rsos.171531</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-18</dcterms:dateSubmitted>
+        <bib:pages>171531</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.mdpi.com/1999-4907/13/2/273">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1999-4907"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alizoti</foaf:surname>
+                        <foaf:givenName>Paraskevi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bastien</foaf:surname>
+                        <foaf:givenName>Jean-Charles</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chakraborty</foaf:surname>
+                        <foaf:givenName>Debojyoti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klisz</foaf:surname>
+                        <foaf:givenName>Marcin Miroslav</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kroon</foaf:surname>
+                        <foaf:givenName>Johan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neophytou</foaf:surname>
+                        <foaf:givenName>Charalambos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schueler</foaf:surname>
+                        <foaf:givenName>Silvio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Loo</foaf:surname>
+                        <foaf:givenName>Marcela Van</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Westergren</foaf:surname>
+                        <foaf:givenName>Marjana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Konnert</foaf:surname>
+                        <foaf:givenName>Monika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andonovski</foaf:surname>
+                        <foaf:givenName>Vlatko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andreassen</foaf:surname>
+                        <foaf:givenName>Kjell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brang</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brus</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cvjetković</foaf:surname>
+                        <foaf:givenName>Branislav</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Đodan</foaf:surname>
+                        <foaf:givenName>Martina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández</foaf:surname>
+                        <foaf:givenName>Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Frýdl</foaf:surname>
+                        <foaf:givenName>Josef</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karlsson</foaf:surname>
+                        <foaf:givenName>Bo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keserű</foaf:surname>
+                        <foaf:givenName>Zsolt</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kormutak</foaf:surname>
+                        <foaf:givenName>Andrej</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lavnyy</foaf:surname>
+                        <foaf:givenName>Vasyl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maaten</foaf:surname>
+                        <foaf:givenName>Tiit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mason</foaf:surname>
+                        <foaf:givenName>Bill</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mihai</foaf:surname>
+                        <foaf:givenName>Georgeta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Monteverdi</foaf:surname>
+                        <foaf:givenName>Cristina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perić</foaf:surname>
+                        <foaf:givenName>Sanja</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petkova</foaf:surname>
+                        <foaf:givenName>Krasimira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Popov</foaf:surname>
+                        <foaf:givenName>Emil Borissov</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rousi</foaf:surname>
+                        <foaf:givenName>Matti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stojnić</foaf:surname>
+                        <foaf:givenName>Srđan Milenko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsvetkov</foaf:surname>
+                        <foaf:givenName>Ivaylo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Non-Native Forest Tree Species in Europe: The Question of Seed Origin in Afforestation</dc:title>
+        <dcterms:abstract>Non-native forest tree species have been introduced in Europe since the 16th century, but only in the second half of the 20th century the significance of the seed source origin for their economic use was recognized, resulting in the establishment of numerous provenance trials at a national, regional, European and International level, as those led by IUFRO. Breeding programs have also been launched in the continent for the most economically important species. Aim of this work is the formulation of provenance recommendations for planting of five non-native tree species in Europe (Douglas fir, grand fir, Sitka spruce, lodgepole pine and black locust), based on the information obtained from twenty countries, in the frame of the EU FP-1403 NNEXT Cost Action. The survey revealed that official and non-official national recommendations, based on provenance research results, have been elaborated and followed at a different level and extend for the above five species, but only for Douglas fir recommendations exist in almost all the participating to the survey countries. The compilation of provenance recommendations across Europe for each species is presented in the current work. Besides the recommended introduced seed sources, European seed sources are also preferred for planting, due to ease of access and high availability of forest reproductive material. European breeding programs yielding genetic material of high productivity and quality constitute currently the seed source of choice for several species and countries. Consolidation of trial data obtained across countries will allow the joint analysis that is urgently needed to draw solid conclusions, and will facilitate the development of ‘Universal-Response-Functions’ for the species of interest, rendering possible the identification of the genetic material suitable for global change. New provenance trial series that will test seed sources from the entire climatic range of the species, established in sites falling within and outside the environmental envelopes of their natural ranges, are urgently needed to pinpoint and understand the species-specific climate constraints, as well as to correlate functional traits to the seed origin and the environmental conditions of the test sites, so that the selection of suitable forest reproductive material of non-native tree species in the face of climate change can be feasible.</dcterms:abstract>
+        <dc:date>2022-02</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Non-Native Forest Tree Species in Europe</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1999-4907/13/2/273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-21</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>273</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1999-4907">
+        <prism:volume>13</prism:volume>
+        <dc:title>Forests</dc:title>
+        <dc:identifier>DOI 10.3390/f13020273</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 1999-4907</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.scielo.br/j/bjmbr/a/FKhYHQmXbv3mVX4S9B9R5dj/?lang=en">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0100-879X,%201414-431X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Suffredini</foaf:surname>
+                        <foaf:givenName>I. B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sader</foaf:surname>
+                        <foaf:givenName>H. S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gonçalves</foaf:surname>
+                        <foaf:givenName>A. G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reis</foaf:surname>
+                        <foaf:givenName>A. O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gales</foaf:surname>
+                        <foaf:givenName>A. C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Varella</foaf:surname>
+                        <foaf:givenName>A. D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Younes</foaf:surname>
+                        <foaf:givenName>R. N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44615"/>
+        <dc:title>Screening of antibacterial extracts from plants native to the Brazilian Amazon Rain Forest and Atlantic Forest</dc:title>
+        <dcterms:abstract>More than 20% of the world's biodiversity is located in Brazilian forests and only a few plant extracts have been evaluated for potential antibacterial activity. In the present study, 705 organic and aqueous extracts of plants obtained from different Amazon Rain Forest and Atlantic Forest plants were screened for antibacterial activity at 100 µg/ml, using a microdilution broth assay against Staphylococcus aureus, Enterococcus faecalis, Pseudomonas aeruginosa and Escherichia coli. One extract, VO581, was active against S. aureus (minimum inhibitory concentration (MIC) = 140 µg/ml and minimal bactericidal concentration (MBC) = 160 µg/ml, organic extract obtained from stems) and two extracts were active against E. faecalis, SM053 (MIC = 80 µg/ml and MBC = 90 µg/ml, organic extract obtained from aerial parts), and MY841 (MIC = 30 µg/ml and MBC = 50 µg/ml, organic extract obtained from stems). The most active fractions are being fractionated to identify their active substances. Higher concentrations of other extracts are currently being evaluated against the same microorganisms.</dcterms:abstract>
+        <dc:date>2004-03</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scielo.br/j/bjmbr/a/FKhYHQmXbv3mVX4S9B9R5dj/?lang=en</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18</dcterms:dateSubmitted>
+        <bib:pages>379–384</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0100-879X,%201414-431X">
+        <prism:volume>37</prism:volume>
+        <dc:title>Brazilian Journal of Medical and Biological Research</dc:title>
+        <dc:identifier>DOI https://doi.org/10.1590/S0100-879X2004000300015</dc:identifier>
+        <dc:identifier>ISSN 0100-879X, 1414-431X</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_44615">
+        <rdf:value>&lt;p&gt;Publisher: Associação Brasileira de Divulgação Científica&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0100-879X2004000300015&amp;lng=en&amp;tlng=en">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0100-879X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Suffredini</foaf:surname>
+                        <foaf:givenName>I.B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sader</foaf:surname>
+                        <foaf:givenName>H.S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gonçalves</foaf:surname>
+                        <foaf:givenName>A.G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reis</foaf:surname>
+                        <foaf:givenName>A.O.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gales</foaf:surname>
+                        <foaf:givenName>A.C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Varella</foaf:surname>
+                        <foaf:givenName>A.D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Younes</foaf:surname>
+                        <foaf:givenName>R.N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Screening of antibacterial extracts from plants native to the Brazilian Amazon Rain Forest and Atlantic Forest</dc:title>
+        <dc:date>2004-03</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0100-879X2004000300015&amp;lng=en&amp;tlng=en</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-18</dcterms:dateSubmitted>
+        <bib:pages>379–384</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0100-879X">
+        <prism:volume>37</prism:volume>
+        <dc:title>Brazilian Journal of Medical and Biological Research</dc:title>
+        <dc:identifier>DOI 10.1590/S0100-879X2004000300015</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 0100-879X</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_44620">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>Forests</dc:title>
+                <dc:identifier>DOI 10.3390/f13020273</dc:identifier>
+                <prism:number>2</prism:number>
+                <dc:identifier>ISSN 1999-4907</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alizoti</foaf:surname>
+                        <foaf:givenName>Paraskevi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bastien</foaf:surname>
+                        <foaf:givenName>Jean-Charles</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chakraborty</foaf:surname>
+                        <foaf:givenName>Debojyoti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klisz</foaf:surname>
+                        <foaf:givenName>Marcin Miroslav</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kroon</foaf:surname>
+                        <foaf:givenName>Johan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neophytou</foaf:surname>
+                        <foaf:givenName>Charalambos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schueler</foaf:surname>
+                        <foaf:givenName>Silvio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Loo</foaf:surname>
+                        <foaf:givenName>Marcela Van</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Westergren</foaf:surname>
+                        <foaf:givenName>Marjana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Konnert</foaf:surname>
+                        <foaf:givenName>Monika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andonovski</foaf:surname>
+                        <foaf:givenName>Vlatko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andreassen</foaf:surname>
+                        <foaf:givenName>Kjell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brang</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brus</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cvjetković</foaf:surname>
+                        <foaf:givenName>Branislav</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Đodan</foaf:surname>
+                        <foaf:givenName>Martina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández</foaf:surname>
+                        <foaf:givenName>Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Frýdl</foaf:surname>
+                        <foaf:givenName>Josef</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karlsson</foaf:surname>
+                        <foaf:givenName>Bo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keserű</foaf:surname>
+                        <foaf:givenName>Zsolt</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kormutak</foaf:surname>
+                        <foaf:givenName>Andrej</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lavnyy</foaf:surname>
+                        <foaf:givenName>Vasyl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maaten</foaf:surname>
+                        <foaf:givenName>Tiit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mason</foaf:surname>
+                        <foaf:givenName>Bill</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mihai</foaf:surname>
+                        <foaf:givenName>Georgeta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Monteverdi</foaf:surname>
+                        <foaf:givenName>Cristina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perić</foaf:surname>
+                        <foaf:givenName>Sanja</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petkova</foaf:surname>
+                        <foaf:givenName>Krasimira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Popov</foaf:surname>
+                        <foaf:givenName>Emil Borissov</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rousi</foaf:surname>
+                        <foaf:givenName>Matti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stojnić</foaf:surname>
+                        <foaf:givenName>Srđan Milenko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsvetkov</foaf:surname>
+                        <foaf:givenName>Ivaylo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Non-Native Forest Tree Species in Europe: The Question of Seed Origin in Afforestation</dc:title>
+        <dcterms:abstract>Non-native forest tree species have been introduced in Europe since the 16th century, but only in the second half of the 20th century the significance of the seed source origin for their economic use was recognized, resulting in the establishment of numerous provenance trials at a national, regional, European and International level, as those led by IUFRO. Breeding programs have also been launched in the continent for the most economically important species. Aim of this work is the formulation of provenance recommendations for planting of five non-native tree species in Europe (Douglas fir, grand fir, Sitka spruce, lodgepole pine and black locust), based on the information obtained from twenty countries, in the frame of the EU FP-1403 NNEXT Cost Action. The survey revealed that official and non-official national recommendations, based on provenance research results, have been elaborated and followed at a different level and extend for the above five species, but only for Douglas fir recommendations exist in almost all the participating to the survey countries. The compilation of provenance recommendations across Europe for each species is presented in the current work. Besides the recommended introduced seed sources, European seed sources are also preferred for planting, due to ease of access and high availability of forest reproductive material. European breeding programs yielding genetic material of high productivity and quality constitute currently the seed source of choice for several species and countries. Consolidation of trial data obtained across countries will allow the joint analysis that is urgently needed to draw solid conclusions, and will facilitate the development of ‘Universal-Response-Functions’ for the species of interest, rendering possible the identification of the genetic material suitable for global change. New provenance trial series that will test seed sources from the entire climatic range of the species, established in sites falling within and outside the environmental envelopes of their natural ranges, are urgently needed to pinpoint and understand the species-specific climate constraints, as well as to correlate functional traits to the seed origin and the environmental conditions of the test sites, so that the selection of suitable forest reproductive material of non-native tree species in the face of climate change can be feasible.</dcterms:abstract>
+        <dc:date>2022-02</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Non-Native Forest Tree Species in Europe</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1999-4907/13/2/273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-03-18</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>273</bib:pages>
+    </bib:Article>
+    <bib:BookSection rdf:about="urn:isbn:978-3-031-56088-0%20978-3-031-56089-7">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>17</prism:volume>
+                <dc:identifier>ISBN 978-3-031-56088-0 978-3-031-56089-7</dc:identifier>
+                <dc:title>Environmental Histories of the Dinaric Karst</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fuerst-Bjeliš</foaf:surname>
+                        <foaf:givenName>Borna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mrgić</foaf:surname>
+                        <foaf:givenName>Jelena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petrić</foaf:surname>
+                        <foaf:givenName>Hrvoje</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zorn</foaf:surname>
+                        <foaf:givenName>Matija</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zwitter</foaf:surname>
+                        <foaf:givenName>Žiga</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Remec</foaf:surname>
+                        <foaf:givenName>Meta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44622"/>
+        <link:link rdf:resource="#item_44623"/>
+        <dc:title>Afforestation with Non-native Pinus nigra in the Karstic Areas of Southwestern Slovenia Since the Mid-Nineteenth Century: Environmental Implications</dc:title>
+        <dcterms:abstract>… afforestation of Kras was thus discussed on several occasions, and the afforestation with a non-native … that the economic reasons behind the afforestation attempts need to be studied as …</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Afforestation with Non-native Pinus nigra in the Karstic Areas of Southwestern Slovenia Since the Mid-Nineteenth Century</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/978-3-031-56089-7_8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 16:07:01</dcterms:dateSubmitted>
+        <dc:description>Series Title: Environmental History
+DOI: 10.1007/978-3-031-56089-7_8</dc:description>
+        <bib:pages>203-237</bib:pages>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_44622">
+        <rdf:value>4 cites: https://scholar.google.com/scholar?cites=3468799643305228056&amp;as_sdt=2005&amp;sciodt=2007&amp;hl=en</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_44623">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>related</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar?q=related:GLc1qOWmIzAJ:scholar.google.com/&amp;scioq=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:55:47</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jsfa.9224">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0022-5142,%201097-0010"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Azevedo</foaf:surname>
+                        <foaf:givenName>Luciana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Araujo Ribeiro</foaf:surname>
+                        <foaf:givenName>Paula F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Carvalho Oliveira</foaf:surname>
+                        <foaf:givenName>Jéssica A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Correia</foaf:surname>
+                        <foaf:givenName>Maryana G</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramos</foaf:surname>
+                        <foaf:givenName>Flávia M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Oliveira</foaf:surname>
+                        <foaf:givenName>Eduardo B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barros</foaf:surname>
+                        <foaf:givenName>Frederico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stringheta</foaf:surname>
+                        <foaf:givenName>Paulo C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44632"/>
+        <link:link rdf:resource="#item_44633"/>
+        <link:link rdf:resource="#item_44634"/>
+        <link:link rdf:resource="#item_44635"/>
+        <dc:title>Camu‐camu ( &lt;i&gt;Myrciaria dubia&lt;/i&gt; ) from commercial cultivation has higher levels of bioactive compounds than native cultivation (Amazon Forest) and presents antimutagenic effects &lt;i&gt;in vivo&lt;/i&gt;</dc:title>
+        <dcterms:abstract>Abstract
+            
+              BACKGROUND
+              
+                Camu‐camu (
+                Myrciaria dubia
+                ) is a typical Amazonian fruit and has high antioxidant capacity due to its high levels of vitamin C and phenolic compounds. This study aimed to determine the phytochemicals, antioxidant capacity and antimutagenic effects of camu‐camu fruits with different maturity stages grown in dry (commercial cultivation) or flooded environments (native cultivation, Amazon).
+              
+            
+            
+              RESULTS
+              
+                Total polyphenols, ascorbic acid and
+                in vitro
+                antioxidant capacity levels were higher in ripe fruits grown in a commercial cultivation. The extracts from ripe camu‐camu grown in a commercial cultivation exerted antioxidant effects and high percentage of protection against doxorubicin and 1,2‐dimethylhydrazine in all tested systems (liver, bone marrow and gut), for three camu‐camu extract concentrations (17, 85 and 170 mg kg
+                −1
+                body weight), as follows: bone marrow minocronucleus (37.91%, 41.75%, 43.95%); micronucleus gut test (61.01%, 64.40%, 50.28%); apoptosis index (60.26%, 62.44%, 58.22%); comet assay through the tail moment (71.64%, 72.31%, 70.70%), percent DNA in the tail (64.54%, 68.75%, 76.79%) and tail intensity (76.43%, 81.02%, 68.33%).
+              
+            
+            
+              CONCLUSION
+              The results of this study contribute to increasing the production of camu‐camu fruits grown in dry environments and their use as a health‐promoting food. © 2018 Society of Chemical Industry</dcterms:abstract>
+        <dc:date>2019-01-30</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scijournals.onlinelibrary.wiley.com/doi/10.1002/jsfa.9224</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 16:04:21</dcterms:dateSubmitted>
+        <dc:description>Citation Key: pop00037
+Publisher: Wiley Online Library
+tex.note+duplicate-1: Query date: 2025-01-18 14:46:42</dc:description>
+        <bib:pages>624-631</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0022-5142,%201097-0010">
+        <prism:volume>99</prism:volume>
+        <dc:title>Journal of the Science of Food and Agriculture</dc:title>
+        <dc:identifier>DOI 10.1002/jsfa.9224</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>J Sci Food Agric</dcterms:alternative>
+        <dc:identifier>ISSN 0022-5142, 1097-0010</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_44632">
+        <rdf:value>49 cites: https://scholar.google.com/scholar?cites=4246076982315329527&amp;as_sdt=2005&amp;sciodt=2007&amp;hl=en</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_44633">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>fulltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.locus.ufv.br/bitstream/123456789/24550/1/artigo.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:55:41</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_44634">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>related</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar?q=related:9yfey4QY7ToJ:scholar.google.com/&amp;scioq=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:55:41</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_44635">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texte intégral</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://locus.ufv.br//bitstream/123456789/24550/1/artigo.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 16:04:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://www.cabidigitallibrary.org/doi/full/10.5555/19860608012">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>cabidigitallibrary.org</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dyck</foaf:surname>
+                        <foaf:givenName>WJ</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cooke</foaf:surname>
+                        <foaf:givenName>JG</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44637"/>
+        <link:link rdf:resource="#item_44638"/>
+        <dc:title>Exotic forestry and its effect on water quality.</dc:title>
+        <dcterms:abstract>The Waikato River Basin occupies 14 000 km 2 of the North Island of New Zealand, and about 2250 km 2 of this area are under exotic forests, mainly radiata pine. Results of studies …</dcterms:abstract>
+        <dc:date>1983</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cabidigitallibrary.org/doi/full/10.5555/19860608012</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: pop00107
+DOI: 10.5555/19860608012
+tex.note+duplicate-1: Query date: 2025-01-18 14:40:36</dc:description>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_44637">
+        <rdf:value>11 cites: https://scholar.google.com/scholar?cites=14446440108627589183&amp;as_sdt=2005&amp;sciodt=2007&amp;hl=en</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_44638">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>related</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar?q=related:P_iz_7wQfMgJ:scholar.google.com/&amp;scioq=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:55:12</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="https://books.google.com/books?hl=en&amp;lr=&amp;id=t4B_DwAAQBAJ&amp;oi=fnd&amp;pg=PA7&amp;dq=%22non+native%22%7Cnonnative%7Calien%7Cintroduced%7Cintroduction%7Cexotic%7C%22non+indigenous%22%7Cnative+conifer%7Cdeciduous%7C%22broad+leaved%22%7Chardwood%7Cforest%7Cwoodland&amp;ots=OA5TWBKKm9&amp;sig=32nW8QE75bX4c2P97hTPlRtxRNY">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>books.google.com</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shmulsky</foaf:surname>
+                        <foaf:givenName>R</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jones</foaf:surname>
+                        <foaf:givenName>PD</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44640"/>
+        <link:link rdf:resource="#item_44641"/>
+        <dc:title>Forest products and wood science: an introduction</dc:title>
+        <dcterms:abstract>The updated seventh edition of the classic text on wood science and forestry The seventh edition of Forest Products and Wood Science: An Introduction offers a fully revised and …</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.com/books?hl=en&amp;lr=&amp;id=t4B_DwAAQBAJ&amp;oi=fnd&amp;pg=PA7&amp;dq=%22non+native%22%7Cnonnative%7Calien%7Cintroduced%7Cintroduction%7Cexotic%7C%22non+indigenous%22%7Cnative+conifer%7Cdeciduous%7C%22broad+leaved%22%7Chardwood%7Cforest%7Cwoodland&amp;ots=OA5TWBKKm9&amp;sig=32nW8QE75bX4c2P97hTPlRtxRNY</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: pop00077
+tex.note+duplicate-1: Query date: 2025-01-18 14:37:46</dc:description>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_44640">
+        <rdf:value>675 cites: https://scholar.google.com/scholar?cites=9914656659427689894&amp;as_sdt=2005&amp;sciodt=2007&amp;hl=en</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_44641">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>related</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar?q=related:pgUmn7Pvl4kJ:scholar.google.com/&amp;scioq=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:53:31</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="https://www.cabidigitallibrary.org/doi/full/10.5555/19830687875">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>cabidigitallibrary.org</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haygreen</foaf:surname>
+                        <foaf:givenName>JG</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bowyer</foaf:surname>
+                        <foaf:givenName>JL</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44643"/>
+        <link:link rdf:resource="#item_44644"/>
+        <dc:title>Forest products and wood science: an introduction.</dc:title>
+        <dcterms:abstract>… The technology of major forest products – Describes the processes of producing lumber, plywood, … Future advancements in forest utilization – Includes energy and biomass. Eleven …</dcterms:abstract>
+        <dc:date>1982</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cabidigitallibrary.org/doi/full/10.5555/19830687875</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: pop00075
+DOI: 10.5555/19830687875
+Type: BOOK
+tex.note+duplicate-1: Query date: 2025-01-18 14:37:46</dc:description>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_44643">
+        <rdf:value>1477 cites: https://scholar.google.com/scholar?cites=4112113174066851732&amp;as_sdt=2005&amp;sciodt=2007&amp;hl=en</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_44644">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>related</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar?q=related:lG91GCUpETkJ:scholar.google.com/&amp;scioq=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:53:31</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Book rdf:about="https://scholarspace.manoa.hawaii.edu/handle/10125/12491">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>scholarspace.manoa.hawaii.edu</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bussmann</foaf:surname>
+                        <foaf:givenName>RW</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharon</foaf:surname>
+                        <foaf:givenName>D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ly</foaf:surname>
+                        <foaf:givenName>J</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44646"/>
+        <link:link rdf:resource="#item_44647"/>
+        <link:link rdf:resource="#item_44648"/>
+        <dc:title>From garden to market? The cultivation of native and introduced medicinal plant species in cajamarca, peru and implications for habitat conservation</dc:title>
+        <dcterms:abstract>… The study additionally examines whether introduced and native species available in the … methods of cultivation provide insight into the treatment of native and introduced medicinal …</dcterms:abstract>
+        <dc:date>2008</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholarspace.manoa.hawaii.edu/handle/10125/12491</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: pop00023
+tex.note+duplicate-1: Query date: 2025-01-18 14:46:42</dc:description>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_44646">
+        <rdf:value>131 cites: https://scholar.google.com/scholar?cites=9094205400879457064&amp;as_sdt=2005&amp;sciodt=2007&amp;hl=en</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_44647">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>fulltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholarspace.manoa.hawaii.edu/bitstream/10125/12491/1/i1547-3465-06-351.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:55:40</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_44648">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>related</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar?q=related:KOPbAaEbNX4J:scholar.google.com/&amp;scioq=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:55:40</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="http://hdl.handle.net/10125/12491">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1547-3465"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bussmann</foaf:surname>
+                        <foaf:givenName>Rainer W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sharon</foaf:surname>
+                        <foaf:givenName>Douglas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ly</foaf:surname>
+                        <foaf:givenName>Jennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44650"/>
+        <dc:title>From Garden to Market? The cultivation of native and introduced medicinal plant species in Cajamarca, Peru and implications for habitat conservation</dc:title>
+        <dcterms:abstract>Large amounts of medicinal plants are sold in the markets of Trujillo and Chiclayo, two cities on the north coast of Peru. However, a large percentage of this material comes from the Peruvian highlands, most notably from the Department of Cajamarca. Although prior studies indicate that at least some material, mostly introduced species, is grown in home-gardens on the coast, the origin of the vast bulk of the plants was unclear. The present study reports on medicinal plants grown, collected and sold in the Cajamarca region. Only 42 plant species, 34 of them indigenous, were sold in the local markets. In contrast, 76 species (25 introduced, 51 indigenous) were found in local gardens or were cultivated by vendors. Of these however, only five species were commonly cultivated in the homegardens studied, and 11 were grown by plant vendors. All but three of the commonly cultivated species were introductions. Contrary to the initial assumption, increasing plant demand in the large coastal markets has not led to significant cultivation of medicinal plants in home-gardens. The vast bulk of the plant material sold in the markets of Northern Peru represents plants collected in the wild. No data are available as to whether this massive harvest is sustainable or not.</dcterms:abstract>
+        <dc:date>2008</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>From Garden to Market?</z:shortTitle>
+        <z:libraryCatalog>scholarspace.manoa.hawaii.edu</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://hdl.handle.net/10125/12491</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:36:08</dcterms:dateSubmitted>
+        <dc:description>Publisher: University of Hawaii at Manoa</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1547-3465">
+       <dc:identifier>ISSN 1547-3465</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_44650">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholarspace.manoa.hawaii.edu/bitstreams/d22a8ed4-7f93-4c19-bc8d-6dc4836d2f75/download</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:36:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://esajournals.onlinelibrary.wiley.com/doi/10.1890/04-0577">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1051-0761,%201939-5582"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pejchar</foaf:surname>
+                        <foaf:givenName>Liba</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Holl</foaf:surname>
+                        <foaf:givenName>Karen D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lockwood</foaf:surname>
+                        <foaf:givenName>Julie L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44652"/>
+        <link:link rdf:resource="#item_44653"/>
+        <dc:title>HAWAIIAN HONEYCREEPER HOME RANGE SIZE VARIES WITH HABITAT: IMPLICATIONS FOR NATIVE ACACIA KOA FORESTRY</dc:title>
+        <dcterms:abstract>Reforesting degraded landscapes with native, high‐value timber trees may contribute to biodiversity protection while also increasing the economic value of the land. Ideally, reforested areas should have the habitat characteristics to support viable populations of native fauna. We investigated habitat use by Akiapolaau (
+              Hemignathus munroi
+              ), an endangered Hawaiian honeycreeper, in three habitat types: a relatively intact old‐growth forest, an old‐growth forest with a long history of grazing, and a native
+              Acacia koa
+              plantation. We quantified habitat characteristics, calculated foraging preferences, mapped home ranges, measured territoriality, and determined reproductive success at all sites. We found that Akiapolaau were highly selective foragers, foraging primarily on
+              A. koa
+              despite its relative scarcity in the environment, and then secondarily on several subcanopy species. Home range size was significantly smaller at the intact old‐growth site and the
+              A. koa
+              plantation, the two sites with the greater cover of
+              A. koa
+              and of the subcanopy species preferred by Akiapolaau. Birds at these sites were also less territorial, supporting behavioral theory that predicts a nonlinear relationship between food availability and territoriality. Overall, our results show that the
+              A. koa
+              plantation, the site with the highest percentage of
+              A. koa
+              , the smallest Akiapolaau home ranges, and the least territoriality, supported the highest density of birds with no apparent reproductive cost. Because
+              A. koa
+              is an extremely high‐value hardwood and thus can be selectively harvested, there is tremendous potential for conservation advocates to work with landowners to grow
+              A. koa
+              for economic benefit while also enhancing biodiversity.</dcterms:abstract>
+        <dc:date>06/2005</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>HAWAIIAN HONEYCREEPER HOME RANGE SIZE VARIES WITH HABITAT</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://esajournals.onlinelibrary.wiley.com/doi/10.1890/04-0577</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 16:00:38</dcterms:dateSubmitted>
+        <dc:rights>http://onlinelibrary.wiley.com/termsAndConditions#vor</dc:rights>
+        <dc:description>Citation Key: pop00076
+Publisher: Wiley Online Library
+tex.note+duplicate-1: Query date: 2025-01-18 14:40:36</dc:description>
+        <bib:pages>1053-1061</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1051-0761,%201939-5582">
+        <prism:volume>15</prism:volume>
+        <dc:title>Ecological Applications</dc:title>
+        <dc:identifier>DOI 10.1890/04-0577</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Ecological Applications</dcterms:alternative>
+        <dc:identifier>ISSN 1051-0761, 1939-5582</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_44652">
+        <rdf:value>70 cites: https://scholar.google.com/scholar?cites=3453653985928518230&amp;as_sdt=2005&amp;sciodt=2007&amp;hl=en</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_44653">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>related</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar?q=related:VpphgADY7S8J:scholar.google.com/&amp;scioq=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:55:09</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.researchgate.net/profile/Wayne-Erskine/publication/233721320_Water_yield_response_to_integrated_native_forest_management_in_southeastern_Australia/links/0912f50ac7fb930dfc000000/Water-yield-response-to-integrated-native-forest-management-in-southeastern-Australia.pdf">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Integrated Water Resources Management (Proceedings of a svmposium held at Davis. California.</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Erskine</foaf:surname>
+                        <foaf:givenName>WD</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_44655"/>
+        <link:link rdf:resource="#item_44656"/>
+        <link:link rdf:resource="#item_44657"/>
+        <dc:title>Water yield response to integrated native forest management in southweastern australia</dc:title>
+        <dcterms:abstract>… zones by exotic plants. The hydrological impacts of native forest management have been … Integrated native forest management is briefly discussed first to provide the background for …</dcterms:abstract>
+        <dc:date>2001</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Wayne-Erskine/publication/233721320_Water_yield_response_to_integrated_native_forest_management_in_southeastern_Australia/links/0912f50ac7fb930dfc000000/Water-yield-response-to-integrated-native-forest-management-in-southeastern-Australia.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Citation Key: pop00133
+Publisher: researchgate.net
+Type: PDF
+tex.note+duplicate-1: Query date: 2025-01-18 14:40:36</dc:description>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_44655">
+        <rdf:value>7 cites: https://scholar.google.com/scholar?cites=13425643732549787637&amp;as_sdt=2005&amp;sciodt=2007&amp;hl=en</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_44656">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>fulltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Wayne-Erskine/publication/233721320_Water_yield_response_to_integrated_native_forest_management_in_southeastern_Australia/links/0912f50ac7fb930dfc000000/Water-yield-response-to-integrated-native-forest-management-in-southeastern-Australia.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:55:14</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_44657">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>related</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://scholar.google.com/scholar?q=related:9V-Ut9d3UboJ:scholar.google.com/&amp;scioq=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-18 13:55:14</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.persee.fr/doc/bupsy_0007-4403_2003_num_56_468_15273">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>56</prism:volume>
+                <dc:title>Bulletin de psychologie</dc:title>
+                <dc:identifier>DOI 10.3406/bupsy.2003.15273</dc:identifier>
+                <prism:number>468</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duflot</foaf:surname>
+                        <foaf:givenName>Colette</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Quand l’Art est là… la (psycho)thérapie s’en va !</dc:title>
+        <dcterms:abstract>L'auteur, qui préfère l’expression « psychothérapies médiatisées » à celle d’art-thérapie, examine certains concepts, ceux de création, d’expression, de projection/introjection, d’espace transitionnel, d’espace topologique, de narcissisme primaire, mis en jeu dans ces « psychothérapies médiatisées ». Elle situe la place du thérapeute et dénonce l’amalgame entre art et thérapie : quand l’art est là, la (psycho)thérapie s’en va.</dcterms:abstract>
+        <dc:date>2003</dc:date>
+        <z:language>fre</z:language>
+        <z:libraryCatalog>www.persee.fr</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/bupsy_0007-4403_2003_num_56_468_15273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:42:11</dcterms:dateSubmitted>
+        <dc:rights>free</dc:rights>
+        <dc:description>Publisher: Persée - Portail des revues scientifiques en SHS</dc:description>
+        <bib:pages>773-779</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://publications-prairial.fr/canalpsy/index.php?id=3391">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2777-2055"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>André</foaf:surname>
+                        <foaf:givenName>Marion</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44660"/>
+        <dc:title>Éloge de la crise et du bricolage face à des institutions en perpétuelles mutations</dc:title>
+        <dcterms:abstract>Introduction À travers plusieurs expériences dans des institutions sociales et médico-sociales, en tant que psychologue clinicienne ou en tant qu’intervenante en analyse de la pratique, j’ai fait le constat que nos institutions connaissent des mutations profondes et répétées de leurs cadres et de leurs métacadres socio-culturels. L'idéologie du « bougisme » vient remettre en question en permanence les grands récits sous-jacents à nos pratiques tandis que dans le même temps, on nous propose de...</dcterms:abstract>
+        <dc:date>2021/01/01</dc:date>
+        <z:language>fr</z:language>
+        <z:libraryCatalog>publications-prairial.fr</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://publications-prairial.fr/canalpsy/index.php?id=3391</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:43:22</dcterms:dateSubmitted>
+        <dc:rights>CC BY 4.0</dc:rights>
+        <dc:description>Publisher: Université Lumière Lyon 2</dc:description>
+        <bib:pages>38-42</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2777-2055">
+        <dc:title>Canal Psy</dc:title>
+        <dc:identifier>DOI 10.35562/canalpsy.3391</dc:identifier>
+        <prism:number>127</prism:number>
+        <dc:identifier>ISSN 2777-2055</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_44660">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://publications-prairial.fr/canalpsy/index.php?id=3391&amp;file=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:43:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://shs.cairn.info/revue-geographie-economie-societe-2023-4-page-567">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1295-926x"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vidal</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hir</foaf:surname>
+                        <foaf:givenName>Sarah Le</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44662"/>
+        <dc:title>La crise de l’offre de soins peut-elle être amortie par la téléconsultation territoriale ? Premiers enseignements pour la Normandie</dc:title>
+        <dc:date>2023</dc:date>
+        <z:language>fr</z:language>
+        <z:shortTitle>La crise de l’offre de soins peut-elle être amortie par la téléconsultation territoriale ?</z:shortTitle>
+        <z:libraryCatalog>shs.cairn.info</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://shs.cairn.info/revue-geographie-economie-societe-2023-4-page-567</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:54:35</dcterms:dateSubmitted>
+        <dc:description>Publisher: JLE Éditions</dc:description>
+        <bib:pages>567-598</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1295-926x">
+        <prism:volume>25</prism:volume>
+        <dc:title>Géographie, économie, société</dc:title>
+        <dc:identifier>DOI 10.3166/ges.2023.0025</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 1295-926x</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_44662">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://shs.cairn.info/article/GES_254_0567/pdf?lang=fr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:54:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.erudit.org/fr/revues/ps/2021-v40-n2-ps06089/1077874ar/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1203-9438,%201703-8480"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moncada</foaf:surname>
+                        <foaf:givenName>Marie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Innovation parlementaire, entrepreneuriat et déserts médicaux en France</dc:title>
+        <dcterms:abstract>Le Parlement français est oublié des abondants travaux sur les « déserts médicaux ». Pourtant, sur ce sujet, de nombreux parlementaires vont à contre-courant des programmes présidentiels, de l’administration et des groupes d’intérêt et prennent ouvertement la défense de mesures contraignantes. Cette innovation parlementaire soulève la question suivante : les parlementaires français sont-ils des entrepreneurs d’action publique ? L’analyse est faite sur les archives parlementaires de 1998 à 2019. L’analyse qualitative montre bien l’existence d’une innovation parlementaire en faveur des mesures contraignantes. L’analyse quantitative pour sa part répond par la négative à la problématique : les parlementaires ne sont pas des entrepreneurs en raison de leur subordination volontaire à l’exécutif et aux groupes d’intérêt médicaux.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>fr</z:language>
+        <z:libraryCatalog>www.erudit.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.erudit.org/fr/revues/ps/2021-v40-n2-ps06089/1077874ar/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:55:04</dcterms:dateSubmitted>
+        <dc:description>Publisher: Société québécoise de science politique</dc:description>
+        <bib:pages>187-212</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1203-9438,%201703-8480">
+        <prism:volume>40</prism:volume>
+        <dc:title>Politique et Sociétés</dc:title>
+        <dc:identifier>DOI 10.7202/1077874ar</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>ps</dcterms:alternative>
+        <dc:identifier>ISSN 1203-9438, 1703-8480</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_44664">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Trajectoires Humaines Transcontinentales</dc:title>
+                <dc:identifier>DOI 10.25965/trahs.4229</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gayot</foaf:surname>
+                        <foaf:givenName>Caroline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ribet</foaf:surname>
+                        <foaf:givenName>Johann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trimouillas</foaf:surname>
+                        <foaf:givenName>Justine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Micallef</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tchalla</foaf:surname>
+                        <foaf:givenName>Achille</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44665"/>
+        <dc:title>Which place for Artificial Intelligence in the concept of “the nursing home of the future”? Intel@Care project in the region of Nouvelle Aquitaine in France1</dc:title>
+        <dcterms:abstract>While the needs of dependent seniors needs are important in Nursing Home (NH), the medical resources are low in residences located in a medical desert. Access to care in these NH is very unequal and can result in a loss of chance for residents who are immediately transferred to emergency with a risk of iatrogeny or inappropriate hospitalization. Objective: We aim to find new models of care organization to optimize management of elderly in NH thanks to new technologies Artificial Intelligence (AI) associated to telemedicine. Method: Intel@Care is a 3 steps program planned over 5 years : 1- faisability study : Intel@Med-Faisa (2019-2020); 2- proof of concept : Intel@Med-POC with socio-environmental study (2020-2022); 3- efficiency study with medico-economic assessment Intel@Med-Efficiency (2022-2024). Results: Intel@Med-Faisa : 18 residents were included in 2 NHs; 20 additional diagnoses were created to adapt the Artificial Intelligence algorithm to the clinical characteristics of the elderly. Intel@Med-POC: (study in progress): 306 residents to be included to validate development of evidence-based decision tool to help physician to make decisions to manage healthcare interventions, verify the acceptability of the new care organization. A medico-economic study is also conducted. Perspectives : This program aims to secure the use of this tool by professionals and to identify the obstacles and levers about use, perception and find an economic model for the deployment on the territory. In parallel, a clinical research will be conducted in order to adapt this organization to elderly people living at home in medical desert areas.</dcterms:abstract>
+        <dc:date>2021-12-07</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Which place for Artificial Intelligence in the concept of “the nursing home of the future”?</z:shortTitle>
+        <z:libraryCatalog>isidore.science</z:libraryCatalog>
+        <dcterms:dateSubmitted>2025-05-19 06:55:16</dcterms:dateSubmitted>
+        <dc:description>Publisher: Trajectoires Humaines Transcontinentales</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_44665">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texte intégral</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.unilim.fr/trahs/4229%26file=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:55:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.unilim.fr/trahs/4229">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2557-0633"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ribet</foaf:surname>
+                        <foaf:givenName>Johann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trimouillas</foaf:surname>
+                        <foaf:givenName>Justine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Micallef</foaf:surname>
+                        <foaf:givenName>Ludovic</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tchalla</foaf:surname>
+                        <foaf:givenName>Achille</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gayot</foaf:surname>
+                        <foaf:givenName>Caroline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44667"/>
+        <dc:title>Which place for Artificial Intelligence in the concept of “the nursing home of the future”? Intel@Care project in the region of Nouvelle Aquitaine in France1</dc:title>
+        <dcterms:abstract>While the needs of dependent seniors needs are important in Nursing Home (NH), the medical resources are low in residences located in a medical desert. Access to care in these NH is very unequal and can result in a loss of chance for residents who are immediately transferred to emergency with a risk of iatrogeny or inappropriate hospitalization. Objective: We aim to find new models of care organization to optimize management of elderly in NH thanks to new technologies Artificial Intelligence (AI) associated to telemedicine. Method: Intel@Care is a 3 steps program planned over 5 years : 1- faisability study : Intel@Med-Faisa (2019-2020); 2- proof of concept : Intel@Med-POC with socio-environmental study (2020-2022); 3- efficiency study with medico-economic assessment Intel@Med-Efficiency (2022-2024). Results: Intel@Med-Faisa : 18 residents were included in 2 NHs; 20 additional diagnoses were created to adapt the Artificial Intelligence algorithm to the clinical characteristics of the elderly. Intel@Med-POC: (study in progress): 306 residents to be included to validate development of evidence-based decision tool to help physician to make decisions to manage healthcare interventions, verify the acceptability of the new care organization. A medico-economic study is also conducted. Perspectives : This program aims to secure the use of this tool by professionals and to identify the obstacles and levers about use, perception and find an economic model for the deployment on the territory. In parallel, a clinical research will be conducted in order to adapt this organization to elderly people living at home in medical desert areas.</dcterms:abstract>
+        <dc:date>2021/12/07</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Which place for Artificial Intelligence in the concept of “the nursing home of the future”?</z:shortTitle>
+        <z:libraryCatalog>www.unilim.fr</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.unilim.fr/trahs/4229</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:55:33</dcterms:dateSubmitted>
+        <dc:rights>CC BY-NC-ND 4.0</dc:rights>
+        <dc:description>Number: 12
+Publisher: Université de Limoges</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2557-0633">
+        <dc:title>Trayectorias Humanas Trascontinentales</dc:title>
+        <dc:identifier>DOI 10.25965/trahs.4229</dc:identifier>
+        <prism:number>12</prism:number>
+        <dcterms:alternative>TraHs</dcterms:alternative>
+        <dc:identifier>ISSN 2557-0633</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_44667">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.unilim.fr/trahs/4229%26file=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:55:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_44668">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>L’Espace géographique</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chevillard</foaf:surname>
+                        <foaf:givenName>Guillaume</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mousques</foaf:surname>
+                        <foaf:givenName>Julien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dill</foaf:surname>
+                        <foaf:givenName>Ly Lan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>‘‘Medical deserts’’ in France: Current state of research and future trends</dc:title>
+        <dcterms:abstract>The term “medical desert” is often used in France to describe areas where inhabitants lack proper access to health care. However, the expression lacks sufficient clarity to adequately describe the multiple issues involved or to further debate on the best way to solve the issue. This paper begins by analysing the evolution of the index of low accessibility to general practitioners (GPs) over time. We then analyse how public authorities have addressed the issue of “medical deserts” by focusing on two measures: defining priority areas and implementing incentives to attract and retain GPs in these areas. Using the resulting observations and our conceptual framework, we identify future research axes that would refine the description of accessibility to GPs and improve the evaluation of policies addressing “medical deserts”.</dcterms:abstract>
+        <dc:date>2018</dc:date>
+        <z:language>fr</z:language>
+        <z:shortTitle>‘‘Medical deserts’’ in France</z:shortTitle>
+        <z:libraryCatalog>isidore.science</z:libraryCatalog>
+        <dcterms:dateSubmitted>2025-05-19 06:55:51</dcterms:dateSubmitted>
+        <dc:description>Publisher: L’Espace géographique</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://shs.cairn.info/journal-espace-geographique-2018-4-page-362">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0046-2497"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chevillard</foaf:surname>
+                        <foaf:givenName>Guillaume</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lucas-Gabrielli</foaf:surname>
+                        <foaf:givenName>Véronique</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mousques</foaf:surname>
+                        <foaf:givenName>Julien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dill</foaf:surname>
+                        <foaf:givenName>Ly Lan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44670"/>
+        <dc:title>‘‘Medical deserts’’ in France: Current state of research and future trends</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>fr</z:language>
+        <z:shortTitle>‘‘Medical deserts’’ in France</z:shortTitle>
+        <z:libraryCatalog>shs.cairn.info</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://shs.cairn.info/journal-espace-geographique-2018-4-page-362</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:56:02</dcterms:dateSubmitted>
+        <dc:description>Publisher: Belin
+Section: Political science</dc:description>
+        <bib:pages>362-380</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0046-2497">
+        <prism:volume>47</prism:volume>
+        <dc:title>L’Espace géographique</dc:title>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 0046-2497</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_44670">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://shs.cairn.info/article/E_EG_474_0362/pdf?lang=en</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:56:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_44671">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Géographie, économie, société</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vidal</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hir</foaf:surname>
+                        <foaf:givenName>Sarah Le</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>La crise de l’offre de soins peut-elle être amortie par la téléconsultation territoriale ? Premiers enseignements pour la Normandie</dc:title>
+        <dcterms:abstract>Since 2018, and at an increasingly rapid pace, private companies have been deploying medical teleconsultation booths and kiosks throughout the national territory in easily accessible public places, mainly in pharmacies. These devices are developed by private companies from the French Tech movement, with the dual argument of fighting against medical desertification and anticipating the aging of the population, on the assumption that advancing age will in fact lead to greater needs in terms of healthcare provision across the national territory. Against a backdrop of discourse against neglect of the territory, with the agreement and sometimes active participation of local public actors, private teleconsultation kiosks are rapidly being deployed. They fit into the current of «technological solutionism» and present themselves as a remedy for the crisis in the health and social sector, which continues to worsen across the entire national territory. The situation in Normandy reveals that the ongoing deployment of medical teleconsultation booths is dynamic in medically vulnerable areas, but currently does not address the hardest hit zones by the shortage of Norman doctors. The article concludes with an initial report of usage, ultimately showing that these devices are especially appreciated for their ability to respond to medical emergencies and the recurring follow-up of patients who do not live in medical desertification zones.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>fr</z:language>
+        <z:shortTitle>La crise de l’offre de soins peut-elle être amortie par la téléconsultation territoriale ?</z:shortTitle>
+        <z:libraryCatalog>isidore.science</z:libraryCatalog>
+        <dcterms:dateSubmitted>2025-05-19 06:56:25</dcterms:dateSubmitted>
+        <dc:description>Publisher: Géographie, économie, société</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="#item_44672">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Revue Française de Socio-Économie</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gallois</foaf:surname>
+                        <foaf:givenName>Florence</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rauly</foaf:surname>
+                        <foaf:givenName>Amandine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>De la relation de soins à la relation de service : quelle organisation de la télésurveillance médicale ?</dc:title>
+        <dcterms:abstract>From a care relationship to a service relationship: How should medical telemonitoring be organized?Healthcare professionals and public authorities in France consider telemonitoring to be an answer to the contemporary challenges of healthcare (improving the quality of care and reducing costs). One aspect particularly fuels these hopes: medical telemonitoring. This paper discusses the consistency of the performance aims associated with medical telemonitoring. By looking at the care economy, we characterize the production processes, revealing the participation of a group of hidden actors: the patient and their caregivers. This invisibility seems a necessary condition of the efficiency expected of healthcare.</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>fr</z:language>
+        <z:shortTitle>De la relation de soins à la relation de service</z:shortTitle>
+        <z:libraryCatalog>isidore.science</z:libraryCatalog>
+        <dcterms:dateSubmitted>2025-05-19 06:56:41</dcterms:dateSubmitted>
+        <dc:description>Publisher: Revue Française de Socio-Économie</dc:description>
+    </bib:Article>
+    <bib:Article rdf:about="https://shs.cairn.info/revue-francaise-de-socio-economie-2019-2-page-203">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1966-6608"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gallois</foaf:surname>
+                        <foaf:givenName>Florence</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rauly</foaf:surname>
+                        <foaf:givenName>Amandine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44674"/>
+        <dc:title>De la relation de soins à la relation de service : quelle organisation de la télésurveillance médicale ?</dc:title>
+        <dc:date>2019-11-28</dc:date>
+        <z:language>fr</z:language>
+        <z:shortTitle>De la relation de soins à la relation de service</z:shortTitle>
+        <z:libraryCatalog>shs.cairn.info</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://shs.cairn.info/revue-francaise-de-socio-economie-2019-2-page-203</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:57:08</dcterms:dateSubmitted>
+        <dc:description>Publisher: La Découverte
+Section: Gestion</dc:description>
+        <bib:pages>203-219</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1966-6608">
+        <prism:volume>23</prism:volume>
+        <dc:title>Revue Française de Socio-Économie</dc:title>
+        <dc:identifier>DOI 10.3917/rfse.023.0203</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 1966-6608</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_44674">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://shs.cairn.info/article/RFSE_023_0203/pdf?lang=fr</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 06:57:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="#item_44675">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>HAL-SHS : l'archive ouverte pour les sciences humaines et sociales</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Giusti</foaf:surname>
+                        <foaf:givenName>Igor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Changing perspective to design public action differently ? The medical deserts analyzed through care pathway concept</dc:title>
+        <dcterms:abstract>This dissertation deals with the concept of medical desert. Despite widespread use of the word by the media and political representatives, identifying medical deserts is far from easy for public authorities. Spotting inequalities in access to health services requires to identify users’ needs wherever they live. However, health needs are individualized. Besides, an individual does not fully know his needs. We must therefore understand how public authorities themselves appreciate this object and how they design actions accordingly to regulate care access. This is our purpose in this dissertation. We led an action research with the Regional Health Agency of Corsica in order to analyze how public actions are designed to regulate care access inequalities. We show in particular how the care pathway approach can highlight the diversity of inequalities in a medical desert thanks to a more global modeling of health needs. Fighting medical deserts is no longer limited to guaranteeing the presence of health professionals locally. It also relies on ensuring equality between citizens in the continuity of their care pathway. Yet, territories and individuals specificities suggest a strong heterogeneity between these pathways, which is difficult to manage at a national level. We then evaluate feasibility of a bottom-up innovative public action to reduce inequalities in care access. Through a slow, fragile and complex process, local actions can still address territorial specificities without ignoring a national regulatory and institutional framework. However, multiplying these proximity experiments requires new national-level criteria to select and rank projects. Hence, we recommend methods often used to manage the exploration of the unknown.</dcterms:abstract>
+        <dc:date>2020-05-19</dc:date>
+        <z:language>fr</z:language>
+        <z:shortTitle>Changing perspective to design public action differently ?</z:shortTitle>
+        <z:libraryCatalog>isidore.science</z:libraryCatalog>
+        <dcterms:dateSubmitted>2025-05-19 06:57:21</dcterms:dateSubmitted>
+        <dc:description>Publication Title: HAL-SHS : l'archive ouverte pour les sciences humaines et sociales</dc:description>
+        <z:type>thesis</z:type>
+    </bib:Thesis>
+    <bib:BookSection rdf:about="urn:isbn:978-3-031-56089-7">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-3-031-56089-7</dc:identifier>
+                <dc:title>Environmental Histories of the Dinaric Karst</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Remec</foaf:surname>
+                        <foaf:givenName>Meta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fuerst-Bjeliš</foaf:surname>
+                        <foaf:givenName>Borna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mrgić</foaf:surname>
+                        <foaf:givenName>Jelena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petrić</foaf:surname>
+                        <foaf:givenName>Hrvoje</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zorn</foaf:surname>
+                        <foaf:givenName>Matija</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zwitter</foaf:surname>
+                        <foaf:givenName>Žiga</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Afforestation with Non-native Pinus nigra in the Karstic Areas of Southwestern Slovenia Since the Mid-Nineteenth Century: Environmental Implications</dc:title>
+        <dcterms:abstract>The paper deals with the afforestation project and the creation of monocultural forest stands of non-native black pine (Pinus nigra) in southwestern Slovenia, mainly on the Kras Plateau and in the Vipava Valley since the middle of the nineteenth century, and its social and environmental implications. It is based on the archival sources kept in the state, regional, and local institutions involved in the afforestation project at various levels and over the time span of three different state entities with their distinctive social orders that shaped the territory under consideration in the twentieth century. The paper analyses the reasons for the afforestation and the consequences of this human intervention in the environment, which has completely changed the characteristics of the landscape and, consequently, the economic situation of the local inhabitants. The paper outlines the various environmental impacts caused by afforestation, such as changes in the soil, vegetation, and microclimate, while focusing primarily on the infestation of the non-native processionary moth (Thaumetopoea pityocampa), which, due to the specific characteristics of the Slovenian karstic region and local climatic conditions, spread rapidly even in the forested areas up to 1200 m above sea level. It describes the methods of controlling this pest, which were initially mechanical, while after WWII, the pest was also aggressively controlled with chemical agents, contaminating the groundwater in the karst areas and the entire local environment.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Afforestation with Non-native Pinus nigra in the Karstic Areas of Southwestern Slovenia Since the Mid-Nineteenth Century</z:shortTitle>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/978-3-031-56089-7_8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 07:10:13</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1007/978-3-031-56089-7_8</dc:description>
+        <bib:pages>203-237</bib:pages>
+    </bib:BookSection>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.9224">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1097-0010"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Azevedo</foaf:surname>
+                        <foaf:givenName>Luciana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Araujo Ribeiro</foaf:surname>
+                        <foaf:givenName>Paula F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Carvalho Oliveira</foaf:surname>
+                        <foaf:givenName>Jéssica A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Correia</foaf:surname>
+                        <foaf:givenName>Maryana G</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ramos</foaf:surname>
+                        <foaf:givenName>Flávia M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Oliveira</foaf:surname>
+                        <foaf:givenName>Eduardo B</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barros</foaf:surname>
+                        <foaf:givenName>Frederico</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stringheta</foaf:surname>
+                        <foaf:givenName>Paulo C</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44678"/>
+        <dc:title>Camu-camu (Myrciaria dubia) from commercial cultivation has higher levels of bioactive compounds than native cultivation (Amazon Forest) and presents antimutagenic effects in vivo</dc:title>
+        <dcterms:abstract>BACKGROUND Camu-camu (Myrciaria dubia) is a typical Amazonian fruit and has high antioxidant capacity due to its high levels of vitamin C and phenolic compounds. This study aimed to determine the phytochemicals, antioxidant capacity and antimutagenic effects of camu-camu fruits with different maturity stages grown in dry (commercial cultivation) or flooded environments (native cultivation, Amazon). RESULTS Total polyphenols, ascorbic acid and in vitro antioxidant capacity levels were higher in ripe fruits grown in a commercial cultivation. The extracts from ripe camu-camu grown in a commercial cultivation exerted antioxidant effects and high percentage of protection against doxorubicin and 1,2-dimethylhydrazine in all tested systems (liver, bone marrow and gut), for three camu-camu extract concentrations (17, 85 and 170 mg kg−1 body weight), as follows: bone marrow minocronucleus (37.91%, 41.75%, 43.95%); micronucleus gut test (61.01%, 64.40%, 50.28%); apoptosis index (60.26%, 62.44%, 58.22%); comet assay through the tail moment (71.64%, 72.31%, 70.70%), percent DNA in the tail (64.54%, 68.75%, 76.79%) and tail intensity (76.43%, 81.02%, 68.33%). CONCLUSION The results of this study contribute to increasing the production of camu-camu fruits grown in dry environments and their use as a health-promoting food. © 2018 Society of Chemical Industry</dcterms:abstract>
+        <dc:date>2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.9224</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 07:16:46</dcterms:dateSubmitted>
+        <dc:rights>© 2018 Society of Chemical Industry</dc:rights>
+        <dc:description>_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jsfa.9224</dc:description>
+        <bib:pages>624-631</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1097-0010">
+        <prism:volume>99</prism:volume>
+        <dc:title>Journal of the Science of Food and Agriculture</dc:title>
+        <dc:identifier>DOI 10.1002/jsfa.9224</dc:identifier>
+        <prism:number>2</prism:number>
+        <dc:identifier>ISSN 1097-0010</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_44678">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texte intégral</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://locus.ufv.br//bitstream/123456789/24550/1/artigo.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 07:16:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_44679">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2777-2055,%201253-9392"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>André</foaf:surname>
+                        <foaf:givenName>Marion</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44680"/>
+        <dc:title>Éloge de la crise et du bricolage face à des institutions en perpétuelles mutations</dc:title>
+        <dc:date>2021-01-01</dc:date>
+        <z:language>fr</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://publications-prairial.fr/canalpsy/index.php?id=3391</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 07:17:57</dcterms:dateSubmitted>
+        <bib:pages>38-42</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2777-2055,%201253-9392">
+        <dc:title>Canal Psy</dc:title>
+        <dc:identifier>DOI 10.35562/canalpsy.3391</dc:identifier>
+        <prism:number>127</prism:number>
+        <dcterms:alternative>Canal psy</dcterms:alternative>
+        <dc:identifier>ISSN 2777-2055, 1253-9392</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_44680">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Texte intégral</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://publications-prairial.fr/canalpsy/index.php?id=3391&amp;file=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 07:17:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_44681">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0007-4403"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duflot</foaf:surname>
+                        <foaf:givenName>Colette</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Quand l’Art est là… la (psycho)thérapie s’en va !</dc:title>
+        <dcterms:abstract>L'auteur, qui préfère l’expression «psychothérapies médiatisées» à celle d’art-thérapie, examine certains concepts, ceux de création, d’expression, de projection/introjection, d’espace transitionnel, d’espace topologique, de narcissisme primaire, mis en jeu dans ces «psychothérapies médiatisées». Elle situe la place du thérapeute et dénonce l’amalgame entre art et thérapie : quand l’art est là, la (psycho)thérapie s’en va.</dcterms:abstract>
+        <dc:date>2003</dc:date>
+        <z:language>fr</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.persee.fr/doc/bupsy_0007-4403_2003_num_56_468_15273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-19 07:25:27</dcterms:dateSubmitted>
+        <bib:pages>773-779</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0007-4403">
+        <prism:volume>56</prism:volume>
+        <dc:title>Bulletin de psychologie</dc:title>
+        <dc:identifier>DOI 10.3406/bupsy.2003.15273</dc:identifier>
+        <prism:number>468</prism:number>
+        <dcterms:alternative>bupsy</dcterms:alternative>
+        <dc:identifier>ISSN 0007-4403</dc:identifier>
+    </bib:Journal>
+</rdf:RDF>
