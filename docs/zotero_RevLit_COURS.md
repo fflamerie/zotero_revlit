@@ -297,20 +297,26 @@ Il existe déjà des scripts personnalisés, créés par des utilisateurs ou par
 
 ### 3.3 Gérer les doublons avec l'extension Zoplicate
 
-<!--voir si avertissement v 3.0.5 toujours d'actualité + ajouter comparatif PICO Portal et Rayyan-->
-
 Lorsque vous affichez les doublons potentiels repérés par Zotero en cliquant sur la vue "Doublons", vous devez ensuite valider individuellement chaque doublon pour fusionner les enregistrements concurrents. Ce fonctionnement est optimal pour **éviter les faux positifs**, c'est-à-dire pour éviter de fusionner des documents proposés comme doublons potentiels mais qui ne sont pas des doublons. Cela peut toutefois être pénalisant à certaines étapes d'une revue de littérature, lorsque ce risque de faux positif est nul. Par ailleurs, l'extension [Zoplicate](https://github.com/ChenglongMa/zoplicate) offre d'autres fonctionnalités intéressantes en plus de la fusion des doublons par lot.
 
 Zoplicate optimise la gestion des doublons grâce aux fonctionnalités suivantes, qui peuvent être utilisées de façon combinée ou dissociée.
 
-* **Détection des doublons à l'import et choix de la décision à appliquer** : conserver les deux documents, les fusionner et choisir le document existant comme document maître, les fusionner et choisir le document importé comme document maître, demander pour chaque cas.
-* **Fusion par lot des doublons et paramétrage du document maître** : utiliser comme document maître le document le plus ancien, le plus récent, le document modifié le plus récemment, le plus détaillé.
-* **Affichage du nombre de doublons** dans le volet de gauche de Zotero.
+* **Détection des doublons à l'import et choix de la décision à appliquer** (rubrique _Action Preferences_ des paramètres de Zoplicate): conserver les deux documents, les fusionner et choisir le document existant comme document maître, les fusionner et choisir le document importé comme document maître, demander pour chaque cas.
+* **Fusion par lot des doublons et paramétrage du document maître** (rubrique _Master Item Preferences_) : utiliser comme document maître le document le plus ancien, le plus récent, le document modifié le plus récemment, le plus détaillé.
+* **Affichage du nombre de doublons** dans le volet de gauche de Zotero (rubrique _View Preferences_).
 * Marquage des faux positifs comme **"non doublons"**, ce qui les fait disparaître de la vue "Doublons".
 
 ![Fenêtre de paramétrage de Zoplicate](img/zoplicate_parametres.jpeg)
 
 ![La vue doublons avec Zoplicate : affichage du nombre de doublons et options supplémentaires de gestion des doublons dans le volet de gauche de Zotero](img/zoplicate_vue_doublons.jpeg)
+
+Les versions gratuites des services de gestion de revue de littérature en ligne offrent des performances très limitées pour le dédoublonnage.
+
+* [Rayyan](https://www.rayyan.ai/) (version gratuite) : repérage peu précis, pas de fusion par lot
+* [PICO Portal](https://picoportal.org/) (version gratuite) : peu d'outils d'aide à la décision, repérage peu précis, pas de fusion par lot
+
+![Interface de dédoublonnage de Rayyan (version gratuite)](img/Rayyan_doublons.png)
+![Interface de dédoublonnage de PICO Portal (version gratuite)](img/PICOPortal_doublons.png)
 
 
 ## 4. Le flux de travail bibliographique d'une revue de littérature avec Zotero : organiser sa bibliothèque et trouver le texte intégral 
