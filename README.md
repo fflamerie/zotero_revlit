@@ -7,21 +7,9 @@ Matériel de la formation "Zotero pour les revues de littérature" - stage Urfis
 * Créer et organiser une bibliothèque Zotero dédiée pour une revue de littérature
 * Tirer parti des fonctionnalités de Zotero et de ses extensions à toutes les étapes d’une revue de littérature, de l’import par lot des références bibliographiques à l’analyse du corpus et à la restitution des résultats
 
-## Cours
-* [Support de cours](https://github.com/fflamerie/zotero_revlit/blob/main/docs/zotero_RevLit_COURS.md) 
-* [Supplément au stage du 2025-04-14](https://github.com/fflamerie/zotero_revlit/blob/main/docs/zotero_RevLit_SUPPL_20250414.md)
-
-## Exercices
-
-### Diagnostic, nettoyage et dédoublonnage d'une base test
-
-[Base test de 40 références au format Zotero RDF](https://raw.githubusercontent.com/fflamerie/zotero_revlit/main/docs/zotero_RevLit_IMPORT.rdf)
-
-### Quiz sur les styles bibliographiques
-
-Quiz diffués par le biais du service Digistorm (merci [La Digitale](https://ladigitale.dev/)!).
-
-🎯 [Texte du quiz](https://github.com/fflamerie/zotero_revlit/blob/main/docs/zotero_styles_quiz.md)
+## Cours et exercice
+* [Support de cours au format HTML](https://github.com/fflamerie/zotero_revlit/blob/main/docs/zotero_RevLit_COURS.md) 
+* Diagnostic, nettoyage et dédoublonnage d'une base test : [base test de 40 références au format Zotero RDF](https://raw.githubusercontent.com/fflamerie/zotero_revlit/main/docs/zotero_RevLit_IMPORT.rdf)
 
 ## Programme 
 
