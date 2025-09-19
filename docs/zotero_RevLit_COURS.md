@@ -24,15 +24,17 @@
 
 Une revue de littérature peut prendre plusieurs formes, selon le cadre de la recherche et le livrable attendu. Dans ce spectre, il est possible de naviguer entre différentes options, de la revue narrative à la revue systématique, comme le montre le tableau non exhaustif ci-dessous.
 
-![Les principaux types de revue de la littérature](img/Fiche_RevLitGen.jpeg)
+![Les principaux types de revue de la littérature](img/Typologie_RevLit.png)
 
 [Télécharger le tableau en ligne au format PDF aux dimensions A4](https://github.com/fflamerie/intro_revlit/blob/main/docs/Typologie_RevLit.pdf)
 
 Dans tous les cas, y compris pour une synthèse de littérature menée dans le cadre d’un travail universitaire, Zotero peut grandement faciliter la réalisation de votre revue, accompagnant votre méthodologie quel que soit le degré d’exhaustivité que vous souhaitez ou devez atteindre.
 
+![Diagramme de flux commenté : points de méthode et les apports de Zotero](img/diagramme_commente_etapes_zotero.png)
+
 ## 2. Le flux de travail bibliographique d'une revue de littérature avec Zotero : créer une bibliothèque et importer les données
 
-### 2.1 Créer une bibliothèque de groupe
+### Créer une bibliothèque de groupe
 
 Même si vous travaillez seul, il est préférable de créer une bibliothèque de groupe pour votre revue de littérature, cela facilitera notamment **la gestion des doublons**. La recherche de doublons s'exécute en effet toujours sur tout le contenu d'une bibliothèque, il n'est pas possible de la lancer seulement sur une partie de votre bibliothèque (une collection par exemple).
 
@@ -46,21 +48,22 @@ Le groupe Zotero permet par ailleurs de définir très précisément qui a le dr
 
 Vous pouvez ainsi être le seul contributeur d’un groupe dont la bibliothèque peut être consultée plus largement, par les membres du groupe ou par tout internaute.
 
+![zotero][zotero] [Documentation Zotero : Les groupes Zotero](https://docs.zotero-fr.org/groups)
+
 #### Points d'attention concernant la synchronisation et les groupes
 
 * Le **quota de 300 Mo** d’espace de stockage gratuit sur le serveur Zotero concerne les **fichiers joints** et non les références bibliographiques, ni les notes et annotations : si vous ne synchronisez pas vos fichiers joints vous n’aurez aucun problème de dépassement de votre espace de stockage. Pour les bibliothèques de groupe, l'espace de stockage est décompté sur le quota du **propriétaire du groupe**.
 * Le compte en ligne vous permet d’**enregistrer des documents directement dans votre bibliothèque en ligne**. Vous pouvez ainsi ajouter des documents dans votre bibliothèque Zotero même si Zotero n’est pas installé sur l’ordinateur que vous utilisez. Il faut en revanche que le connecteur Zotero soit installé dans le navigateur que vous utilisez, ou que vous ayez recours à l'ajout par identifiant.
 * Vous retrouvez dans votre bibliothèque en ligne une petite partie des fonctionnalités de votre bibliothèque locale. A noter que l'application locale est indispensable pour l'interaction avec **les extensions de traitement de texte**.
+
+![zotero][zotero] [Documentation Zotero : Est-ce que la bibliothèque en ligne est identique à l’application de bureau Zotero ?](https://docs.zotero-fr.org/kb/web_vs_desktop)
+ 
 * Si le droit de consulter la bibliothèque de groupe peut être accordé à tout internaute, **cette consultation est limitée aux références bibliographiques** : les fichiers joints demeurent toujours accessibles seulement aux membres du groupe.
 * Veillez à **la bonne attribution des droits** en fonction de l’organisation souhaitée. Par exemple, si les droits des membres du groupe sont limités à la seule consultation de la bibliothèque, n’oubliez pas d’attribuer le rôle d’administrateur à toutes les personnes qui doivent ajouter des documents dans la bibliothèque ou les modifier.
 * Pour faciliter l'ajout des membres du groupe au démarrage d'un projet, il est recommandé de créer un groupe de type **Public, à participation restreinte** plutôt qu'un groupe privé. L'initiative de rejoindre le groupe revient ainsi aux membres et non aux administrateurs du groupe, qui se voient épargnés la collecte des noms d'utilisateur Zotero ou des adresses de courriel pour l'envoi des invitations. Dans le cas d'un groupe destiné à devenir privé, il suffit alors de modifier ce paramètre lorsque tous les membres ont rejoint le groupe.
 * Un **flux RSS** affiché sur la page de la bibliothèque en ligne du groupe permet de suivre les ajouts dans la bibliothèque. Il faut pour cela que le groupe soit public, et sa bibliothèque consultable par tous.
 
-![zotero][zotero] [Documentation Zotero : FAQ pour Zotero Institution Storage](https://docs.zotero-fr.org/storage_institution_faq/)
-
-### 2.2 Importer des lots de références dans Zotero
-
-<!--à reprendre en fonction atelier Genève -> points de vigilance-->
+### Importer des lots de références dans Zotero
 
 Recourir au connecteur de Zotero et cliquer sur le bouton "Save to Zotero" est la meilleure méthode pour enregistrer des documents dans votre bibliothèque au fil des recherches, lorsqu'il s'agit d'enregistrer un document après l'autre.
 
@@ -71,14 +74,38 @@ Nous allons effectuer ensemble des tests sur quelques bases de données ou moteu
 1. Rechercher dans l'interface, sur la page d'une liste de résultats, une fonctionnalité intitulée _Save_, _Export_, _Downolad_ ou un équivalent du même registre.
 2. Vérifier les **formats d'export disponibles** : s'il y en a plusieurs, effectuer des tests d'export et d'import dans Zotero pour chacun d'eux avec un lot restreint de résultats. Cela permet de sélectionner le format le plus adapté, c'est-à-dire qui à la fois soit pris en charge par Zotero et comporte les données les plus complètes et les mieux formatées. Dans PubMed par exemple, c'est le format **.nbib**.  
 3. Anticiper dès cette étape les limitations qui pourraient ralentir ou compliquer votre travail, telles qu'un **nombre maximal de références par lot exporté**.
+4. Anticiper les difficultés liées à la **qualité des données** autres que celles dues aux formats d'export.
+    * Données **mal saisies sans solution alternative** : [exemple du champ "Prénom" de l'éditeur dans PsycInfo](https://zotero.hypotheses.org/5552#section2-4).
+    * Données **lacunaires ou absentes** : exemple du résumé de Google Scholar : le résumé est en fait généralement un extrait.
+
+![Référence importée de Google Scholar dans Zotero : focus sur le résumé](img/resume_GScholar.png)
 
 #### Importer par lot : exemples pratiques 
 
-📝 Effectuez une recherche ramenant au moins 200 résultats dans chacun des outils de recherche bibliographiques ci-dessous. Quelle est la meilleure méthode d'export, pour importer tous les résultats de votre recherche dans Zotero?
+📝 Effectuez une recherche ramenant au moins 100 résultats dans chacun des outils de recherche bibliographiques ci-dessous. Quelle est la meilleure méthode d'export, pour importer tous les résultats de votre recherche dans Zotero?
 
-1. **[GreenFile](http://www.greeninfoonline.com/)** : si votre université est abonnée à une base de données sur EBSCOHost, vous pouvez faire le test sur cette base de données plutôt que sur GreenFile
+1. **[GreenFile](http://www.greeninfoonline.com/)** : si votre université est abonnée à une base de données sur EBSCOHost, vous pouvez procéder au test sur cette base de données plutôt que sur GreenFile.
 2. **[CAIRN Info](https://shs.cairn.info/?lang=fr)**
 3. **[CORE](https://core.ac.uk/)**
+
+<details style="text-indent: 4em">
+<summary>Réponses</summary>
+
+* CORE → fichier CSV très pauvre et mal construit : espérer qu'il y ait beaucoup de références avec DOI 😅
+* CAIRN info → au moins 2 clics par référence, nécessaire d'ajouter chacune à l'unité dans une liste de lecture avant d'exporter cette dernière
+
+ ![Bouton "Ajouter dans une liste de lecture" sur une liste de résultats dans CAIRN](img/zotero_cairn.png)
+  
+* GreenFile ou une autre base disponible via EBSCOHost → cf. copies d'écran avec GreenFile ci-dessous : l'envoi du fichier d'export par courriel n'est pas toujours activé en fonction des établissements.
+    * EBSCOHost : l'option permettant d'exporter jusqu'à 25'000 références d'un coup est affichée sur la liste de résultats.
+      
+  ![EBSCOHost : l'option permettant d'exporter jusqu'à 25'000 références d'un coup est affichée sur la liste de résultats.](img/export-esbcohost-1.png)
+  
+    * EBSCOHost : le fichier de références est envoyé par courriel, au format RIS, CSV, BIBTEX ou XML.
+      
+ ![EBSCOHost : le fichier de références est envoyé par courriel, au format RIS, CSV, BIBTEX ou XML.](img/export-esbcohost-2.png)
+
+</details>
 
 #### Google Scholar : le détour par Publish or Perish
 
@@ -99,9 +126,9 @@ Une fois les références importées dans votre bibliothèque Zotero, les étape
 
 Effectuer un nettoyage minimal avant le dédoublonnage améliorera la détection automatique des doublons.
 
-Pour mesurer les apports des différentes extensions que nous allons voir ensemble, nous allons travailler sur une base test de 40 références. Importez [le fichier de cette base au format Zotero RDF](https://raw.githubusercontent.com/fflamerie/zotero_revlit/main/docs/zotero_RevLit_IMPORT.rdf) dans votre bibliothèque Zotero. 
+📝 Pour mesurer les apports des différentes extensions que nous allons voir ensemble, nous allons travailler sur une base test de 40 références. Importez [le fichier de cette base au format Zotero RDF](https://raw.githubusercontent.com/fflamerie/zotero_revlit/main/docs/zotero_RevLit_IMPORT.rdf) dans votre bibliothèque Zotero. 
 
-📝 Quel est votre diagnostic? Combien de doublons repérez-vous? Quelles sont les informations bibliographiques à corriger?
+🤔 Quel est votre diagnostic? Combien de doublons repérez-vous? Quelles sont les informations bibliographiques à corriger?
 
 🛠️ Téléchargez et installez les extensions que nous allons voir au cours de la formation.
 
@@ -109,218 +136,68 @@ Pour mesurer les apports des différentes extensions que nous allons voir ensemb
 * [Actions & Tags](https://github.com/windingwind/zotero-actions-tags)
 * [Zoplicate](https://github.com/ChenglongMa/zoplicate)
 
-### Rappel : comment installer et configurer une extension dans Zotero
+La procédure d'installation d'une extension est détaillée dans la base de connaissance en français de Zotero. 
 
-L’installation d’une extension dans Zotero consiste à charger dans Zotero un fichier d’un format particulier, le format `.xpi`. Voici les étapes à suivre.
+![zotero][zotero][KBFR Zotero : Les extensions de Zotero > Installer et configurer une extension](https://docs.zotero-fr.org/kbfr/kbfr_extensions/#installer-et-configurer-une-extension)
 
-* Enregistrer sur son ordinateur le fichier `.xpi` mis à disposition sur le site de l'extension que l’on souhaite installer.
-* Dans Zotero, aller dans le menu _Outils_ > _Extensions_.
-* Cliquer sur la roue dentée et choisir _Install Plugin From File_.
-* Sélectionner et charger le fichier `.xpi`.
 
-Il faut le plus souvent redémarrer Zotero pour finaliser l’installation.
+### Nettoyer et compléter les informations bibliographiques avec l'extension Linter
 
-![fenêtre d'installation d'une extension](img/zotero_gest_modules_compl.png)
+A l'instar des bouloches qui témoignent de l'usure d'un vêtement, les multiples petites imperfections que Linter corrige viennent ternir l'aspect de votre bibliothèque Zotero.
 
-Les extensions sont généralement distribuées par le biais d'un dépôt Git en ligne.
+![zotero][zotero][KBFR Zotero : Extension Linter](https://docs.zotero-fr.org/kbfr/kbfr_linter/)
 
-Sur GitHub, on trouve le plus souvent le fichier d'installation `.xpi` sur la page _Releases_, accessible depuis la page principale du dépôt comme illustré ci-dessous. Une fois sur cette page, il convient de choisir la version la plus adaptée, en général il s'agit de la dernière.
+### Mettre à niveau les informations bibliographiques et organiser son flux de travail avec l'extension Actions & Tags
 
-![Rubrique Releases sur la page du dépôt GitHub d'une extension](img/zotero_modules_releases.png)
+Actions & Tags vous permet d'optimiser votre organisation et votre flux de travail, en définissant des actions déclenchées automatiquement et/ou manuellement. 
 
-
-### 3.1 Nettoyer et compléter les informations bibliographiques avec l'extension Linter
-
-A l'instar des bouloches qui témoignent de l'usure d'un vêtement, les multiples petites imperfections que _Linter_ corrige viennent ternir l'aspect de votre bibliothèque Zotero.
-
-Les corrections effectuées par _Linter_ peuvent être lancées sur une sélection de documents via le menu contextuel _Linter_ :
-
-* soit de façon distincte et sélective,
-* soit toutes en même temps d'un seul coup avec la commande _Lint and Fix_. Cette commande peut par ailleurs s'exécuter automatiquement à l'enregistrement d'un nouveau document.
-
-![Menu contextuel Linter, avec la commande Lint and Fix et les commandes individuelles](img/zotero_modules_linter_menu.png)
-
-📌 Ces corrections peuvent être configurées et/ou désactivées de la commande _Lint and Fix_ dans les paramètres de _Linter_.
-
-Parmi les multiples fonctionnalités de _Linter_, nous retenons celles que nous avons pu tester avec succès et qui nous semblent de l'usage le plus courant.
-
-#### Corriger la casse des titres, des titres de revues et des auteurs
-
-Zotero 7 intègre désormais certaines de ces corrections, mais _Linter_ apporte diverses améliorations.
-
-* Pour les **auteurs**, la fonctionnalité manuelle de Zotero peut être rendue automatique.
-* Pour les **titres**, _Linter_ ajoute à la fonctionnalité de Zotero de conversion automatique de la casse de titre vers la casse de phrase la prise en compte de certains noms propres (notamment les formules chimiques).
-* Pour les **titres de revues**, il s'agit d'appliquer la casse de titre.
-
-⚠️ Les titres de revues françaises n'utilisent pas systématiquement la casse de titre, aussi il est plus prudent d'exclure cette option de la commande _Lint and Fix_ si vous citez beaucoup d'articles de revues françaises.   
-
-#### Corriger les abréviations de titre de revue
-
-Linter peut compléter et/ou corriger le champ "Abrév. de revue" automatiquement, en fonction de l'une des 2 options suivantes. 
-
-* Le titre de revue abrégé doit être conforme à la [norme ISO4](https://fr.wikipedia.org/wiki/ISO_4) : Linter peut le construire à partir de la ["Liste d’abréviations de mots de titres" officielle de l'ISSN](https://www.issn.org/fr/services-et-prestations/services-en-ligne/acces-a-la-ltwa/), ou LTWA en anglais.
-* Le titre de revue abrégé est ajouté à partir d'une **liste personnalisée** au format CSV ou JSON, dont vous devez spécifier l'emplacement. 
-
-⚠️ Les règles d'abréviation des titres de revue appliquées par certains éditeurs ou certaines bases de données ne se conforment pas à la norme ISO4. Ainsi [les règles d'abréviation de la _NLM (National Library of Medicine_](https://www.nlm.nih.gov/tsd/cataloging/contructitleabbre.html), appliquées dans le domaine biomédical, diffèrent notamment de celles de la norme ISO4 en ce qu'elles ne prévoient pas de point à la fin de chaque segment abrégé. Notez que [la fonctionnalité d'abréviation des titres de revue intégrée dans les extensions de traitement de texte de Zotero](https://docs.zotero-fr.org/word_processor_plugin_usage/#preferences-du-document) applique les règles d'abréviation de la NLM.
-
-Exemple pour le titre de revue _Journal of mass spectrometry_
-* Titre abrégé selon la norme ISO4 : _J. mass spectrom._
-* Titre abrégé selon les règles de la NLM : _J Mass Spectrom_
-
-#### Normaliser les données de certains champs
-
-* Appliquer pour les **dates** le format ISO YYYY-MM-DD.
-* Supprimer le préfixe d'URL du champ **DOI**.
-* Supprimer les 0 au début des numéros de volume, numéro et pages.
-
-#### Raccourcis clavier pour l'italique, le gras, etc.
-
-Si Zotero permet d'appliquer une mise en forme enrichie à une partie d'un champ, il demeure fastidieux de saisir manuellement les balises html correspondantes.
-
-![zotero][zotero] [Documentation Zotero : Comment puis-je mettre en forme certains mots d'un titre: par ex. en italique, en exposant ou en indice ?](https://docs.zotero-fr.org/kb/rich_text_bibliography/)
-
-Avec _Linter_, les raccourcis clavier courants (ceux de Microsoft Word par exemple) peuvent être utilisés. Une fois le texte sélectionné, les combinaisons suivantes produisent la mise en forme indiquée.
-
-- Exposant : `Ctrl` + `Shift` + `+`
-- Indice : `Ctrl` + `=`
-- Gras : `Ctrl` + `B`
-- Italique : `Ctrl` + `I`
-- Pas de casse: `Ctrl` + `N` - Le paramètre `class="nocase"` empêche certains noms spéciaux de se voir attribués une initiale en majuscule comme le prévoit par défaut la casse de phrase de CSL.
-
-⚠️ Cette fonctionnalité n'est pas intégrée aux commandes _Lint_. Elle ne fait pas l'objet de réglages dans les paramètres de _Linter_.
-
-### 3.2 Mettre à niveau les informations bibliographiques et organiser son flux de travail avec l'extension Actions & Tags
-
-#### Aperçu
-
-_Actions & Tags_ permet tout d'abord d'optimiser votre organisation et votre flux de travail, en définissant des actions déclenchées automatiquement et/ou manuellement. Ces actions peuvent effectuer différentes opérations, notamment l'ajout et le retrait de marqueurs.
-
-Les **scripts personnalisés** offrent des options avancées, tant pour l'organisation de la bibliothèque que pour la mise à niveau ou la modification des informations bibliographiques.
-
-#### Exemple : les actions "à lire"
-
-_Actions & Tags_ travaille déjà pour vous dès son installation.
-
-Ainsi, le marqueur `/unread` est désormais automatiquement ajouté et retiré aux nouveaux documents de votre bibliothèque grâce à 2 actions paramétrées dans _Actions & Tags_.
-
-Enregistrez un document (**avec ou sans fichier joint**) dans votre bibliothèque, avec le connecteur Zotero, la baguette magique ou encore un import de fichier. Le marqueur `/unread` lui est automatiquement ajouté.
-
-Ouvrez **le fichier PDF joint** à ce document, lisez-le et refermez-le. Le marqueur `/unread` est automatiquement retiré du document.
-
-#### Créer des actions
-
-_Actions & Tags_ s'adresse tant aux utilisateurs novices qu'aux utilisateurs experts, dotés de connaissances en codage informatique. Il permet en effet à la fois :
-
-* de créer simplement et facilement des actions en combinant des options de menu déroulant et en saisissant quelques valeurs,
-* de créer des scripts personnalisés en codant toutes les instructions.
-
-#### Paramètres des actions
-
-![Fenêtres de paramétrage et de modification d'une action dans Actions & Tags](img/zotero_modules_param_AT.png)
-
-##### Libellés : _Name_ et _Menu Label_
-
-Le libellé défini dans le champ _Name_ est utilisé uniquement dans la fenêtre de paramétrage.
-
-Le libellé saisi dans _Menu Label_ s'affiche dans les menus contextuels dans lesquels vous choisissez de faire apparaître l'action. Dans le menu des annotations, l'option s'affiche directement. Dans les autres menus, elle apparaît derrière le menu ou le bouton _Trigger Action_. Si aucune valeur n'est saisie, l'action est masquée.
-
-##### Événement qui déclenche l'action : _Event_
-
-Le tableau ci-dessous présente les différents événements qui peuvent être définis pour déclencher automatiquement l'opération à effectuer. Il s'agit d'événements simples et univoques tels que la création d'un document, d'une annotation et d'une note, ou encore du démarrage de Zotero.
-
-Avec la valeur _None_, l'action est ne peut pas être déclenchée automatiquement. Elle doit être lancée manuellement.
-
-<details style="text-indent: 4em">
-<summary>Afficher les événements pris en charge</summary>
-
-| Evénement              | Description : l'action est déclenchée  quand...        |
-| ------------------ | --------------------------------------------------------- |
-| `Create Item`       | Un document est créé.             |
-| `Open File`         | Le fichier joint est ouvert.        |
-| `Close Tab`         | L'onglet du lecteur de PDF est fermé.     |
-| `Create Annotation` | Une annotation est créée.                  |
-| `Create Note`       | Une note est créée.                         |
-| `Append Annotation` | Une annotation est ajoutée au document cible.  |
-| `Append Note`       | Une note est ajoutée au document cible.         |
-| `Program Startup`   | Le client Zotero ou Actions & Tags démarre. |
-| `Main Window Load`   | La fenêtre principale est chargée.                 |
-| `Main Window Unload` | La fenêtre principale est refermée.      |
-
-</details>
-
-##### Opération effectuée par l'action : _Operation_
-
-Les opérations prédéfinies concernent principalement les marqueurs.
-
-<details style="text-indent: 4em">
-<summary>Afficher les opérations prises en charge</summary>
-
-| Opération      | Description                                                                    |
-| -------------- | ------------------------------------------------------------------------------ |
-| `Add Tags`      | Ajoute le marqueur(s) au document cible.                                        |
-| `Remove Tags`   | Retire le marqueur(s) du document cible.                                      |
-| `Toggle Tags`   | Bascule le marqueur(s) : le marqueur est ajouté si le document ne l'a pas et retiré dans le cas contraire.                                                                                  |
-| `Script` | Exécute un script personnalisé.                                                |
-| `Trigger Other Actions`  | Lance d'autres actions personnalisées.                                    |
-
-</details>
-
-##### Données de l'action : _Data_
-
-Pour les opérations concernant les **marqueurs**, il s'agit des marqueurs séparés par des virgules.
-
-Pour les **scripts personnalisés**, il s'agit du code du script.
-
-Pour le **lancement d'autres actions**, il s'agit du nom des actions (une par ligne).
+![zotero][zotero][KBFR Zotero : Extension Actions & Tags](https://docs.zotero-fr.org/kbfr/kbfr_actions_tags/)
 
 #### Créer une action simple
 
-Nous allons maintenant créer une action personnalisée simple, c'est-à-dire en utilisant essentiellement les menus déroulants pour effectuer la configuration.
+📝 Nous allons créer une action personnalisée simple, c'est-à-dire en utilisant essentiellement les menus déroulants pour effectuer la configuration.
 
-🕰️ Voici les indications pour créer cette action, vous disposez de **5 minutes** pour cela.
+ 👉 On souhaite ajouter automatiquement au document un marqueur `_lu et annoté` quand une note fille est créée.
 
-📝 On souhaite ajouter automatiquement au document un marqueur `_lu et annoté` quand une note fille lui est ajoutée.
+#### Utiliser un script personnalisé 
 
-#### Utiliser un script personnalisé
+📝 Installons ensemble le script personnalisé [Bulk Edit Multiple Items](https://github.com/windingwind/zotero-actions-tags/discussions/343). 
 
-Il existe déjà des scripts personnalisés, créés par des utilisateurs ou par le développeur de _Actions & Tags_. Ce dernier relit et valide tous les scripts, toutefois il recommande la prudence à l'égard de ces programmes, qui peuvent être puissants.
+![Première fenêtre de dialogue du script "Bulk Edit Multiple Items"](img/ActionsTags_bulk_edit_items.png)
 
-🕰️ Nous prenons **15 minutes** pour les 2 activités suivantes.
+#### Quelques scripts personnalisés utiles pour une revue de littérature
 
-📝 Nous installons ensemble le script personnalisé [Bulk Edit Multiple Items](https://github.com/windingwind/zotero-actions-tags/discussions/343) ; vous choisissez les libellés et/ou le raccourci-clavier qui vous conviennent le mieux. 
+* [Collection Tags](https://github.com/windingwind/zotero-actions-tags/discussions/245) pour créer et associer automatiquement aux références les marqueurs correspondant à leurs collections
+* [Batch Tag Operations](https://github.com/windingwind/zotero-actions-tags/discussions/351) pour effectuer sur tout ou partie des marqueurs des opérations telles que combiner, scinder, retirer, préfixer ou suffixer, etc. 
+* [Backup Attachment(s)](https://github.com/windingwind/zotero-actions-tags/discussions/347) pour créer une copie de sauvegarde des fichiers PDF joints aux références
 
-📝 Voici 3 exemples de scripts personnalisés. Vous sembleraient-ils utiles pour votre revue littérature? En repérez-vous d'autres dans [la liste complète des scripts personnalisés référencés](https://github.com/windingwind/zotero-actions-tags/discussions/categories/action-scripts)?
+### Gérer les doublons avec l'extension Zoplicate
 
-* [Collection Tags](https://github.com/windingwind/zotero-actions-tags/discussions/245)
-* [Batch Tag Operations](https://github.com/windingwind/zotero-actions-tags/discussions/351)
-* [Backup Attachment(s)](https://github.com/windingwind/zotero-actions-tags/discussions/347)
+Lorsque vous affichez les doublons potentiels repérés par Zotero en cliquant sur la vue "Doublons", vous devez ensuite valider individuellement chaque doublon pour fusionner les enregistrements concurrents. Ce fonctionnement est optimal pour **éviter les faux positifs**, c'est-à-dire pour éviter de fusionner des documents proposés comme doublons potentiels mais qui ne sont pas des doublons. Cela peut toutefois être pénalisant à certaines étapes d'une revue de littérature, lorsque ce risque de faux positif est nul. L'extension [Zoplicate](https://github.com/ChenglongMa/zoplicate) permet de fusionner les doublons par lot, et d'améliorer [la gestion des doublons](https://docs.zotero-fr.org/duplicate_detection/) à différents égards. Voici ses principales fonctionnalités.
 
-### 3.3 Gérer les doublons avec l'extension Zoplicate
+* La **détection des doublons à l'import** et le choix de l'action à appliquer.
+* La **fusion par lot** des doublons et le paramétrage de la référence à considérer comme document maître.
+* L'affichage du **nombre de doublons** dans le volet de gauche de Zotero.
+* Le marquage des faux positifs comme **non doublons**.
 
-Lorsque vous affichez les doublons potentiels repérés par Zotero en cliquant sur la vue "Doublons", vous devez ensuite valider individuellement chaque doublon pour fusionner les enregistrements concurrents. Ce fonctionnement est optimal pour **éviter les faux positifs**, c'est-à-dire pour éviter de fusionner des documents proposés comme doublons potentiels mais qui ne sont pas des doublons. Cela peut toutefois être pénalisant à certaines étapes d'une revue de littérature, lorsque ce risque de faux positif est nul. Par ailleurs, l'extension [Zoplicate](https://github.com/ChenglongMa/zoplicate) offre d'autres fonctionnalités intéressantes en plus de la fusion des doublons par lot.
+![zotero][zotero][KBFR Zotero : Extension Zoplicate](https://docs.zotero-fr.org/kbfr/kbfr_zoplicate/)
 
-Zoplicate optimise la gestion des doublons grâce aux fonctionnalités suivantes, qui peuvent être utilisées de façon combinée ou dissociée.
 
-* **Détection des doublons à l'import et choix de la décision à appliquer** (rubrique _Action Preferences_ des paramètres de Zoplicate): conserver les deux documents, les fusionner et choisir le document existant comme document maître, les fusionner et choisir le document importé comme document maître, demander pour chaque cas.
-* **Fusion par lot des doublons et paramétrage du document maître** (rubrique _Master Item Preferences_) : utiliser comme document maître le document le plus ancien, le plus récent, le document modifié le plus récemment, le plus détaillé.
-* **Affichage du nombre de doublons** dans le volet de gauche de Zotero (rubrique _View Preferences_).
-* Marquage des faux positifs comme **"non doublons"**, ce qui les fait disparaître de la vue "Doublons".
-
-![Fenêtre de paramétrage de Zoplicate](img/zoplicate_parametres.jpeg)
-
-![La vue doublons avec Zoplicate : affichage du nombre de doublons et options supplémentaires de gestion des doublons dans le volet de gauche de Zotero](img/zoplicate_vue_doublons.jpeg)
+#### Dédoublonnage : Zotero vs autres options gratuites
 
 Les versions gratuites des services de gestion de revue de littérature en ligne offrent des performances très limitées pour le dédoublonnage.
 
 * [Rayyan](https://www.rayyan.ai/) (version gratuite) : repérage peu précis, pas de fusion par lot
-* [PICO Portal](https://picoportal.org/) (version gratuite) : peu d'outils d'aide à la décision, repérage peu précis, pas de fusion par lot
 
 ![Interface de dédoublonnage de Rayyan (version gratuite)](img/Rayyan_doublons.png)
+
+* [PICO Portal](https://picoportal.org/) (version gratuite) : peu d'outils d'aide à la décision, repérage peu précis, pas de fusion par lot
+
 ![Interface de dédoublonnage de PICO Portal (version gratuite)](img/PICOPortal_doublons.png)
 
 
 ## 4. Le flux de travail bibliographique d'une revue de littérature avec Zotero : organiser sa bibliothèque et trouver le texte intégral 
-### 4.1 Organiser sa bibliothèque avec les marqueurs et les recherches enregistrées
+### Organiser sa bibliothèque avec les marqueurs et les recherches enregistrées
 Zotero dispose de plusieurs outils pour organiser une bibliothèque :
 
 * les **collections** -> plus ou moins des dossiers, plutôt des listes de lecture,
@@ -329,7 +206,7 @@ Zotero dispose de plusieurs outils pour organiser une bibliothèque :
 * les **liens connexes** -> pour lier entre eux des documents selon les critères qui font sens pour vous,
 * les **notes** -> indexées par le moteur de recherche de Zotero, saisies dans un éditeur html permettant une mise en forme et/ou créées à partir des annotations de PDF.
 
-![zotero_organisation_overview](img/zotero_organisation_overview.png)
+![Vue d'ensemble des outils d'organisation de Zotero](img/zotero_organisation_overview.png)
 
 Pourquoi privilégier les marqueurs plutôt que les collections?
 
@@ -362,37 +239,14 @@ Pour retrouver toutes les références pour lesquelles un champ est vide, par ex
 Résumé -- Ne contient pas -- %
 ```
 
-### 4.2 Optimiser la recherche du texte intégral
+### Optimiser la recherche du texte intégral
 
 Zotero dispose de fonctionnalités par défaut pour rechercher et enregistrer automatiquement le texte intégral, telles que les suivantes.
 
-* **L'enregistrement automatique du PDF présent sur une page web** lorsque vous utilisez le connecteur Zotero (bouton Zotero dans votre navigateur).
-* La détection et l'enregistrement automatiques du **proxy de votre établissement** pour vous rediriger vers les accès souscrits par cet dernier lorsque vous naviguez sur les sites des éditeurs - voir [Documentation Zotero : Les préférences du connecteur Zotero > Préférences pour les serveurs mandataires](https://www.zotero.org/support/fr/connector_preferences?do=#preferences_pour_les_serveurs_mandataires).
-* La recherche automatique de **PDF disponibles en libre accès** grâce à Unpaywall - [description de la fonctionnalité sur le blog Zotero francophone](https://zotero.hypotheses.org/2130).
+![zotero][zotero][KBFR Zotero : Trouver des fichiers PDF de texte intégral avec Zotero](https://docs.zotero-fr.org/kbfr/kbfr_texte_integral/)
 
-Deux fonctionnalités complémentaires vous permettent d'augmenter ces fonctions de recherche. Elles sont toutes les 2 accessibles depuis **le menu _Localiser_**, c'est-à-dire la flèche entourée d'un cercle en bas de la barre de raccourcis du panneau de droite. Il s'agit de :
 
-* la **configuration OpenURL** de votre établissement,
-* la personnalisation des **moteurs de recherche intégrés à Zotero**.
-
-![bouton_localiser](img/bouton_localiser.png)
-
-![zotero][zotero] [Documentation Zotero : Le menu Localiser](https://docs.zotero-fr.org/locate)
-
-#### Configuration OpenURL
-
-Dans la section _Paramètres_ > _Général_, rubrique _Localiser_, ouvrez le menu déroulant _Résolveur de liens_ et naviguez dans la liste géographique pour sélectionner votre établissement.
-
-![zotero_openurl](img/zotero_openurl.png)
-
-Pour lancer la recherche OpenURL dans les ressources de votre établissement, il vous suffira de cliquer sur l'option _Recherche dans la bibliothèque_ du menu _Localiser_.
-
-#### Moteurs de recherche intégrés à Zotero
-Ces moteurs de recherche vous permettent de lancer une recherche dans diverses sources pour trouver un fichier de texte intégral disponible sur un site web personnel (moteurs Google, Google Scholar), ou pour compléter les informations bibliographiques de vos documents (moteur Sudoc pour les livres et les thèses, moteur PubMed pour les articles, moteurs Isidore, etc.).
-
-Pour en savoir plus concernant la personnalisation des moteurs de recherche, consultez le billet du blog Zotero francophone [Les moteurs de recherche intégrés à Zotero](https://zotero.hypotheses.org/3388).
-
-##### Installer un fichier de moteurs de recherche préconfiguré
+#### Installer un fichier de moteurs de recherche préconfiguré
 
 📝 Plusieurs fichiers de moteurs de recherche préconfigurés sont disponibles en annexe au billet du blog Zotero francophone précédemment cité, ils sont disponibles sur [le dépôt GitHub du blog](https://github.com/zfrancophone/zfrancophone-blog/tree/master/2020-05-moteurs) .
 
@@ -402,7 +256,7 @@ Choisissez celui qui vous semble le plus adapté à vos besoins et installez-le 
 
 ## 5. Les outils de Zotero au service du travail d’analyse d’une revue de littérature
 
-### 5.1 Enregistrer les liens de citation dans Zotero 
+### Enregistrer les liens de citation dans Zotero 
 
 La recherche de citations, ou _snowballing_, fait partie des méthodes de recherche bibliographique utilisables pour une revue de littérature ; elle peut être requise. Cette recherche peut s'entendre dans les deux sens de citation, en amont et en aval, et porter par conséquent sur les références citées et/ou citantes.
 
@@ -436,11 +290,11 @@ La première consiste à utiliser la fonction **Connexe** pour associer les docu
 
 Une seconde approche consiste à utiliser les marqueurs, en créant par exemple un marqueur `_cite_10.000Z`, associé à toutes les références qui citent l'article identifié par le DOI 10.000Z.
 
-### 4.2 Annoter ses PDF avec Zotero
+### Annoter ses PDF avec Zotero
 
 #### Le lecteur de PDF
 
-![lecteur_pdf](img/lecteur_pdf_FR.png)
+![Vue d'ensemble du lecteur de PDF de Zotero](img/lecteur_pdf_FR.png)
 
 Le **lecteur de PDF** intégré à partir de Zotero 6 prend en charge depuis Zotero 7 les fichiers **EPUB** et les **captures de pages web**. Il offre notamment les fonctionnalités suivantes. Notez que ces fonctionnalités se combinent à celles d'un puissant **éditeur de notes**.
 
@@ -456,12 +310,12 @@ Le **lecteur de PDF** intégré à partir de Zotero 6 prend en charge depuis Zot
 
 #### Gestion des annotations
 
-Les annotations créées dans le lecteur de fichiers de Zotero ne sont pas lisibles directement dans un lecteur de PDF externe. Elles ne sont en effet pas stockées dans le fichier mais **dans votre base de données Zotero**.
+Les annotations créées dans le lecteur de fichiers de Zotero ne sont pas lisibles directement dans un lecteur de PDF externe. Elles ne sont en effet pas stockées dans le fichier PDF mais **dans votre base de données Zotero**.
 
 Zotero peut **importer les annotations** effectuées dans un lecteur de PDF externe. Pour **exporter** de Zotero des PDF avec leurs annotations intégrées, procédez comme suit.
 
-* Sélectionnez les documents parents des PDF dans votre bibliothèque Zotero.
-* Dans la barre de menu de Zotero, choisissez l'option _Fichier_ > _Exporter le PDF..._
+* Sélectionnez les PDF ou leur document parent dans votre bibliothèque Zotero.
+* Dans la barre de menu de Zotero, choisissez l'option _Fichier_ > _Exporter les PDFs..._
 
 Les annotations peuvent être organisées au travers de la bibliothèque grâce aux **marqueurs**. Les couleurs d'annotation permettent uniquement de filtrer les annotations d'un même fichier PDF.
 
@@ -469,7 +323,7 @@ Enfin, dans les **bibliothèques de groupe** les annotations de chaque contribut
 
 ![Annotation d'un PDF dans une bibliothèque de groupe, avec l'affichage du nom de l'annotateur](img/annotations_groupe.jpeg)
 
-#### Ressources sur le lecteur de PDF
+#### Ressources
 
 ![zotero][zotero] [Documentation Zotero : Le lecteur PDF et l'éditeur de notes de Zotero](https://docs.zotero-fr.org/pdf_reader)
 
@@ -479,7 +333,7 @@ Enfin, dans les **bibliothèques de groupe** les annotations de chaque contribut
 
 Heimburger, F. (2022, avril 21). Découvrir Zotero 6 - Le lecteur de pdf et la prise de notes en vidéo. La boîte à outils des historien·ne·s. https://boiteaoutils.info/2022/04/decouvrir-zotero-6-le-lecteur-de-pdf-et-la-prise-de-notes-en-video/
 
-### 5.3 Services complémentaires 
+### Services complémentaires 
 Parmi les services complémentaires que peut vous offrir Zotero, on retient notamment les suivants, à l'appui d'une part du **suivi des citations reçues** et d'autre part du **repérage des articles frauduleux**.
 
 #### Extensions Scite et Citation Counts Manager
@@ -497,9 +351,9 @@ Ces deux extensions permettent de suivre les citations reçues par un article et
 * les citations **contredisant** les conclusions la publication (_Contrasting_),
 * les citations **neutres** qui mentionnent simplement la publication (_Mentioning_).
 
-Un lien vers le rapport complet sur Scite.ai est également ajouté dans le volet de droite, dans la barre des raccourcis.
+Les informations de Scite s'affichent dans le panneau de droite de la bibliothèque.
 
-![Affichage des 3 colonnes fournissant les informations provenant de scite.ai, ajoutées à l’aide de l’option de menu contextuel](img/citations_scite.png)
+![informations de scite dans le panneau de droite de la bibliothèque.](img/zotero-scite.png)
 
 #### Extension PubPeer et intégration Retraction Watch
 
@@ -512,103 +366,9 @@ En complément de cette interaction, [l'extension PubPeer](https://github.com/Pu
 ![Affichage des données de PubPeer dans le volet central et dans le volet de droite de Zotero](img/pubpeer.PNG)
 
 ## 6. Rendre compte des résultats d’une revue de littérature
-### 6.1 Rappels sur les styles bibliographiques et la rédaction bibliographique
+### Rappels sur les styles bibliographiques et la rédaction bibliographique
 
-🎯 Quiz : les styles bibliographiques
-
-#### Les types de style bibliographique
-
-Un style bibliographique définit la façon dont les éléments bibliographiques d’un texte sont organisés et mis en forme. C’est ainsi le style qui prescrit quelles informations bibliographiques sont affichées, dans quel ordre et selon quelle mise en forme (gras, italique, guillemets, ponctuation, retraits et espacements, etc.).
-
-On considère 2 éléments.
-
-* Les **citations** : elles peuvent être insérées soit sous la forme d’**appels de citation dans le texte** (numéro, nom de l’auteur et date, etc.), soit sous la forme de références plus ou moins abrégées en **notes** de bas de page ou de fin.
-* La **bibliographie** ou **liste des références citées**.
-
-On distingue différents types de style bibliographiques, correspondant à des formats de style Zotero différents. On trouve ainsi dans [le dépôt des styles Zotero](https://www.zotero.org/styles), plus de 10'000 styles regroupés en 2 grands ensembles :
-
-* les styles _**in-text**_, dans lesquels un appel de citation dans le texte renvoie à une entrée de la bibliographie,
-* les styles _**note**_, dans lesquels un marqueur (symbole, nombre, etc.) pointe vers une note de bas de page ou de fin.
-
-#### Comment choisir un style bibliographique quand aucun n'est imposé?
-
-Les critères de choix suivants peuvent être pris en compte.
-
-##### Critère de choix 1, existence d'un modèle de référence
-Existe-t-il un style de référence ou fréquemment utilisé dans votre domaine? Par exemple "Vancouver" et "American Psychological Association" pour les sciences de la santé, "Modern Language Association" pour certains domaines de la littérature, "IEEE" pour les sciences de l'ingénieur, etc.
-
-##### Critère de choix 2, typologie documentaire prise en charge
-Citez-vous de nombreux types de documents différents? Tous les styles ne prennent pas en charge tous les types de documents. Le style _Nature_, par exemple, ne sera pas le plus adapté si vous citez des documents non publiés comme les thèses. La revue _Nature_ demande aux auteurs de citer un nombre restreint de types de document (voir les [instructions aux auteurs](http://www.nature.com/nature/for-authors/formatting-guide), rubrique _References_), aussi le style CSL pour Zotero _Nature_ encode-t-il la mise en forme des citations uniquement pour ces types de document.
-
-##### Critère de choix 3, langue de rédaction
-Rédigez-vous seulement en français ? Seulement dans une autre langue ? Dans différentes langues selon les cas ? Si certains styles sont agnostiques du point de vue de la langue, d'autres ont au contraire une langue prédéfinie qui ne peut pas être modifiée. Ainsi le style _Nature_ est-il paramétré uniquement pour la langue anglaise, selon la norme britannique.
-
-Tous les styles localisés pour une langue autre que l’anglais comporte le nom de cette langue dans leur intitulé. Ainsi, rechercher « français » dans le dépôt des styles Zotero affiche uniquement les styles localisés pour la langue française, « deutsch » uniquement les styles localisés pour la langue allemande, etc. Les styles sans mention de langue sont soit localisés en anglais, soit agnostiques du point de vue de la langue.
-
-Limiter l’utilisation d’un style à une langue déterminée permet d’éviter les erreurs de la part des utilisateurs : quelle que soit la langue par défaut de l’utilisateur, ce dernier ne pourra pas rédiger les éléments bibliographiques dans une autre langue que celle prévue par le style bibliographique. Une revue publiant des articles dans une unique langue se prémunira ainsi des erreurs de langue en localisant son style bibliographique. Par ailleurs, cela permet de définir précisément et rigoureusement la ponctuation et de s’assurer du respect scrupuleux des règles de typographie, prescrivant par exemple d’insérer une espace insécable avant le point-virgule en français.
-
-#### Comparer facilement des styles dans Zotero
-
-Deux outils facilitent la comparaison des styles bibliographiques dans Zotero :
-
-* la fonctionnalité _Aperçu des styles_ intégrée dans Zotero et accessible depuis les depuis les _Paramètres_ > _Citer_,
-* l'extension [ZoteroPreview](https://github.com/dcartertod/zotero-plugins).
-
-![pref_styles_outils](img/pref_styles_outils.png)
-
-On ne considère pas ici l'entrée bibliographique qui peut être affichée en en-tête du panneau de droite. Cette fonctionnalité n'affiche pas la **citation**, or il s'agit d'un aspect important à prendre en compte dans la comparaison des styles de type **auteur-date** et **note**.
-
-![en-tête du panneau de droite de Zotero sous la forme d'une entrée de bibliographie](img/entete_entree_bib.png)
-
-##### L'aperçu des styles
-
-L’aperçu des styles présente le double avantage d’être intégré à Zotero et de générer un aperçu à partir d’une ou plusieurs références sélectionnées dans la bibliothèque Zotero. En revanche plusieurs clics sont nécessaires pour générer l’aperçu, dont la lecture peut être difficile si vous avez installé un grand nombre de styles.
-
-![apercu](img/apercu_styles.png)
-
-##### ZoteroPreview
-
-[ZoteroPreview](https://github.com/dcartertod/zotero-plugins) offre un affichage immédiat de la mise en forme effectuée par un style bibliographique, en revanche il n’est pas possible de sélectionner plusieurs références ni plusieurs styles en même temps. ZoteroPreview est une extension et il n’est donc pas installé par défaut dans Zotero.
-
-ZoteroPreview affiche un aperçu de la citation et/ou de l'entrée bibliographique du document dans le panneau de droite, avec un bouton de copie.
-
-![ZoteroPreview : la prévisualisation d'un document et les boutons de copie](img/zotero_preview_ref.png)
-
-La section _ZoteroPreview_ des _Paramètres_ de Zotero, ajoutée lors de l'installation de l'extension, permet de définir :
-
-* le style bibliographique à appliquer,
-* la position de l'aperçu dans le panneau de droite (en haut, en bas ou après la section Info),
-* la taille des caractères et l'espacement des interlignes.
-
-![ZoteroPreview : fenêtre de paramétrage](img/zotero_preview_settings.png)
-
-##### Points de vigilance
-
-Quel que soit l'outil et la méthode utilisés pour comparer des styles, il importe de s'assurer de deux points afin que la comparaison soit significative et utile.
-
-Tout d'abord, assurez-vous que les documents que vous sélectionnez comme exemples reflètent la **diversité de types de documents** que vous allez citer (article, chapitre, mais aussi thèse ou encore brevet ou film) : vous vérifierez ainsi que tous ces types sont bien pris en charge par les styles que vous comparez.
-
-Ensuite, et surtout, assurez-vous que ces documents sont complets et exacts dans votre bibliothèque Zotero.
-
-* **S'il manque des informations bibliographiques**, il est logique que le style ne puisse pas les afficher quand il génère les citations et la bibliographie.
-* **Si vous faites un usage inadéquat ou détourné de certains champs**, vous générerez également une bibliographie détournée ou inadéquate, ne correspondant pas au résultat que produit le style normalement.
-
-#### Comparatif de styles bibliographiques en SHS
-
-Les bibliothèques universitaires de Nanterre proposent un tableau comparatif synthétique des styles suivants :
-
-* APA 7ème édition (auteur-date),
-* Petit Chicago (auteur-date),
-* Tapuscrit (auteur-date),
-* Presses universitaires de Rennes (note),
-* Tapuscrit (note),
-* Triangle (note),
-* Université de Liège - Droit (note),
-* Université de Bordeaux - Ecole doctorale de droit (note).
-
-![tableau_comp_styles](img/zotero_comp_styles_nanterre.png "tableau_comp_styles")
-
-Voir : Willemin, E. (2022, avril 5). Quel style Zotero choisir pour son mémoire / sa thèse ? Université Paris Nanterre - Bibliothèques universitaires. http://bu.parisnanterre.fr/sautoformer/quel-style-zotero-choisir-pour-son-memoire-sa-these
+👉 Voir le support du stage [Gérer facilement sa bibliographie avec Zotero > Identifier et installer dans Zotero les styles bibliographiques de référence de son domaine](https://github.com/fflamerie/zotero_gerer_biblio/blob/master/content/gerer_biblio_zotero_COURS.md#5-identifier-et-installer-dans-zotero-les-styles-bibliographiques-de-r%C3%A9f%C3%A9rence-de-son-domaine)
 
 #### Modifier un style
 
@@ -631,19 +391,9 @@ Il convient de souligner [les limitations de l'intégration Google Scholar](http
 
 #### Reference Extractor pour visualiser dans sa bibliothèque Zotero les documents cités dans un fichier de traitement de texte
 
-La fonctionnalité première du service en ligne [Reference Extractor](http://rintze.zelle.me/ref-extractor/) est, comme son nom l’indique, d’extraire des références bibliographiques d’un document rédigé, à partir d'un fichier de traitement de texte. Cette extraction peut être réalisée si les conditions suivantes sont réunies.
+ ![zotero][zotero][KBFR Zotero : Comment visualiser dans sa bibliothèque Zotero les documents cités dans un fichier de traitement de texte?](https://docs.zotero-fr.org/kbfr/kbfr_docs_cites_refextractor/)
 
-* Le fichier de traitement de texte est un fichier Word au format **.docx** ou un fichier LibreOffice au format **.odt**.
-* Les citations ont été insérées avec **Zotero** ou **Mendeley**. Pour un fichier LibreOffice, il faut que les citations soient stockées sous la forme de **Signets** et non de **Marques de référence** (option par défaut).
-* Les citations sont toujours actives et n’ont pas été converties en texte.
-
-Ce n’est pas tant cette fonctionnalité d’extraction que celle de sélection qui nous intéresse pour ce point.
-
-À partir du fichier de traitement de texte téléchargé dans l’interface en ligne, Reference Extractor offre en effet à l'étape 2 du processus de sélectionner les documents correspondants dans la bibliothèque Zotero, avec l'option _Select in Zotero_. Il ne reste plus alors qu’à attribuer à ces documents un marqueur ou une collection pour les identifier durablement dans la bibliothèque.
-
-![Interface de Reference Extractor, avec mise en valeur de l'option de sélection des documents dans la  bibliothèque](img/zotero_ref_extract_01.png)
-
-### 6.2 Rappels sur les exports de données de Zotero : formats CSV, etc.
+### Rappels sur les exports de données de Zotero : format CSV
 
 De même qu'il prend en charge de nombreux formats d'import, Zotero propose de multiples format d'export. Outre les formats bibliographiques, il propose également un export CSV.
 
@@ -653,7 +403,7 @@ De même qu'il prend en charge de nombreux formats d'import, Zotero propose de m
 
 Dans l’export CSV, tous les champs de vos références bibliographiques sont exportés par défaut, selon un ordre déterminé. Il est bien sûr possible de personnaliser tant les champs exportés que leur ordre, en modifiant le paramétrage du convertisseur que Zotero utilise pour cet export.
 
-Nous prenons **10 minutes** pour créer un format d'export personnalisé CSV répondant au modèle suivant. Le fichier d'export doit comporter dans l'ordre indiqué uniquement ces données :
+📝 Nous prenons **10 minutes** pour créer un format d'export personnalisé CSV répondant au modèle suivant. Le fichier d'export doit comporter dans l'ordre indiqué uniquement ces données :
 
 * les auteurs,
 * le titre,
@@ -664,7 +414,7 @@ Nous prenons **10 minutes** pour créer un format d'export personnalisé CSV ré
 
 Vous trouverez comment procéder dans la documentation Zotero francophone, à la page indiquée ci-dessous.
 
-![zotero][zotero] [Base de connaissance Zotero-FR : Créer un format d'export CSV personnalisé](https://docs.zotero-fr.org/kbfr/kbfr_export_csv_custom/)
+![zotero][zotero] [KBFR Zotero : Créer un format d'export CSV personnalisé](https://docs.zotero-fr.org/kbfr/kbfr_export_csv_custom/)
 
 **Crédits**
 
