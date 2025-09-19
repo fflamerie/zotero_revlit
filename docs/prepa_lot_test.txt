@@ -1,0 +1,15 @@
+
+* Afforestation... -> italique à ajouter nom espèce
+* Appendix E... -> grappe faux-doublons
+* Approaches... -> réf incomplète + URL Scopus à supprimer
+* Assessing... -> titre en capitales + nom éditeur à reprendre
+* Changing... -> nom université à COR
+* Exotic forestry... -> point à la fin du titre
+* Forest products... -> pas doublon + point à la fin du titre
+* From garden... -> doublon pas même ttpe de doc + info à compléter
+* Hawaiian... -> titre en capitales
+* La crise... -> pas de majuscules à tous les mots des titres de revue françaises
+* Screening -> DOI avec préfixe URL
+* Water yield... -> réf à compléter - moteurs de recherche
+* Which place... -> 1 fin du titre + Number en extra
+

@@ -103,7 +103,7 @@ Nous allons effectuer ensemble des tests sur quelques bases de données ou moteu
   
     * EBSCOHost : le fichier de références est envoyé par courriel, au format RIS, CSV, BIBTEX ou XML.
       
- ![EBSCOHost : le fichier de références est envoyé par courriel, au format RIS, CSV, BIBTEX ou XML.](img/export-esbcohost-2.png)
+  ![EBSCOHost : le fichier de références est envoyé par courriel, au format RIS, CSV, BIBTEX ou XML.](img/export-esbcohost-2.png)
 
 </details>
 
@@ -138,20 +138,20 @@ Effectuer un nettoyage minimal avant le dédoublonnage améliorera la détection
 
 La procédure d'installation d'une extension est détaillée dans la base de connaissance en français de Zotero. 
 
-![zotero][zotero][KBFR Zotero : Les extensions de Zotero > Installer et configurer une extension](https://docs.zotero-fr.org/kbfr/kbfr_extensions/#installer-et-configurer-une-extension)
+![zotero][zotero] [KBFR Zotero : Les extensions de Zotero > Installer et configurer une extension](https://docs.zotero-fr.org/kbfr/kbfr_extensions/#installer-et-configurer-une-extension)
 
 
 ### Nettoyer et compléter les informations bibliographiques avec l'extension Linter
 
 A l'instar des bouloches qui témoignent de l'usure d'un vêtement, les multiples petites imperfections que Linter corrige viennent ternir l'aspect de votre bibliothèque Zotero.
 
-![zotero][zotero][KBFR Zotero : Extension Linter](https://docs.zotero-fr.org/kbfr/kbfr_linter/)
+![zotero][zotero] [KBFR Zotero : Extension Linter](https://docs.zotero-fr.org/kbfr/kbfr_linter/)
 
 ### Mettre à niveau les informations bibliographiques et organiser son flux de travail avec l'extension Actions & Tags
 
 Actions & Tags vous permet d'optimiser votre organisation et votre flux de travail, en définissant des actions déclenchées automatiquement et/ou manuellement. 
 
-![zotero][zotero][KBFR Zotero : Extension Actions & Tags](https://docs.zotero-fr.org/kbfr/kbfr_actions_tags/)
+![zotero][zotero] [KBFR Zotero : Extension Actions & Tags](https://docs.zotero-fr.org/kbfr/kbfr_actions_tags/)
 
 #### Créer une action simple
 
@@ -163,6 +163,7 @@ Actions & Tags vous permet d'optimiser votre organisation et votre flux de trava
 
 📝 Installons ensemble le script personnalisé [Bulk Edit Multiple Items](https://github.com/windingwind/zotero-actions-tags/discussions/343). 
 
+Première fenêtre de dialogue du script "Bulk Edit Multiple Items"
 ![Première fenêtre de dialogue du script "Bulk Edit Multiple Items"](img/ActionsTags_bulk_edit_items.png)
 
 #### Quelques scripts personnalisés utiles pour une revue de littérature
@@ -180,7 +181,7 @@ Lorsque vous affichez les doublons potentiels repérés par Zotero en cliquant s
 * L'affichage du **nombre de doublons** dans le volet de gauche de Zotero.
 * Le marquage des faux positifs comme **non doublons**.
 
-![zotero][zotero][KBFR Zotero : Extension Zoplicate](https://docs.zotero-fr.org/kbfr/kbfr_zoplicate/)
+![zotero][zotero] [KBFR Zotero : Extension Zoplicate](https://docs.zotero-fr.org/kbfr/kbfr_zoplicate/)
 
 
 #### Dédoublonnage : Zotero vs autres options gratuites
@@ -243,7 +244,7 @@ Résumé -- Ne contient pas -- %
 
 Zotero dispose de fonctionnalités par défaut pour rechercher et enregistrer automatiquement le texte intégral, telles que les suivantes.
 
-![zotero][zotero][KBFR Zotero : Trouver des fichiers PDF de texte intégral avec Zotero](https://docs.zotero-fr.org/kbfr/kbfr_texte_integral/)
+![zotero][zotero] [KBFR Zotero : Trouver des fichiers PDF de texte intégral avec Zotero](https://docs.zotero-fr.org/kbfr/kbfr_texte_integral/)
 
 
 #### Installer un fichier de moteurs de recherche préconfiguré
@@ -391,7 +392,7 @@ Il convient de souligner [les limitations de l'intégration Google Scholar](http
 
 #### Reference Extractor pour visualiser dans sa bibliothèque Zotero les documents cités dans un fichier de traitement de texte
 
- ![zotero][zotero][KBFR Zotero : Comment visualiser dans sa bibliothèque Zotero les documents cités dans un fichier de traitement de texte?](https://docs.zotero-fr.org/kbfr/kbfr_docs_cites_refextractor/)
+ ![zotero][zotero] [KBFR Zotero : Comment visualiser dans sa bibliothèque Zotero les documents cités dans un fichier de traitement de texte?](https://docs.zotero-fr.org/kbfr/kbfr_docs_cites_refextractor/)
 
 ### Rappels sur les exports de données de Zotero : format CSV
 
