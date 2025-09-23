@@ -257,7 +257,7 @@ Choisissez celui qui vous semble le plus adapté à vos besoins et installez-le 
 
 ## 5. Les outils de Zotero au service du travail d’analyse d’une revue de littérature
 
-### Enregistrer les liens de citation dans Zotero 
+### Enregistrer et gérer les liens de citation dans Zotero 
 
 La recherche de citations, ou _snowballing_, fait partie des méthodes de recherche bibliographique utilisables pour une revue de littérature ; elle peut être requise. Cette recherche peut s'entendre dans les deux sens de citation, en amont et en aval, et porter par conséquent sur les références citées et/ou citantes.
 
@@ -283,13 +283,11 @@ L'export des références citées et citantes est intégrée dans les deux princ
 
 Haddaway, N. R., Grainger, M. J., Gray, C. T. 2021. citationchaser: An R package and Shiny app for forward and backward citations chasing in academic searching. doi: [10.5281/zenodo.4543513](https://doi.org/10.5281/zenodo.4543513)
 
-#### Restituer les liens de citation dans Zotero
+#### Retrouver les références citantes et gérer les liens de citation avec l'extension Cita
 
-Une fois les références citées et/ou citantes retrouvées, comment restituer ces liens de citation dans Zotero? Au moins deux approches, toutefois limitées à différents égards, sont possibles.
+Cita propose diverses fonctionnalités pour **référencer, gérer et visualiser les liens de citation**, notamment en lien avec Wikidata. Le développement initial de Cita a de fait été rendu possible par un financement de la fondation Wikimedia.
 
-La première consiste à utiliser la fonction **Connexe** pour associer les documents liés par des liens de citation. Les liens créés étant réciproques et non qualifiés, il peut toutefois être difficile de retrouver _a posteriori_ la signification de ces liens.
-
-Une seconde approche consiste à utiliser les marqueurs, en créant par exemple un marqueur `_cite_10.000Z`, associé à toutes les références qui citent l'article identifié par le DOI 10.000Z.
+![zotero][zotero] [KBFR Zotero : Extension Cita](https://docs.zotero-fr.org/kbfr/kbfr_cita/)
 
 ### Annoter ses PDF avec Zotero
 
