@@ -283,7 +283,7 @@ L'export des références citées et citantes est intégrée dans les deux princ
 
 Haddaway, N. R., Grainger, M. J., Gray, C. T. 2021. citationchaser: An R package and Shiny app for forward and backward citations chasing in academic searching. doi: [10.5281/zenodo.4543513](https://doi.org/10.5281/zenodo.4543513)
 
-#### Retrouver les références citantes et gérer les liens de citation avec l'extension Cita
+#### Retrouver les références citées et gérer les liens de citation avec l'extension Cita
 
 Cita propose diverses fonctionnalités pour **référencer, gérer et visualiser les liens de citation**, notamment en lien avec Wikidata. Le développement initial de Cita a de fait été rendu possible par un financement de la fondation Wikimedia.
 
