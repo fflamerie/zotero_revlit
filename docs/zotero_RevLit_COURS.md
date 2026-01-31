@@ -279,7 +279,6 @@ L'export des références citées et citantes est intégrée dans les deux princ
 
 ![Interface de recherche et d'export des références citantes dans Citation Chaser](img/CChaser_02_citations.png)
 
-3. Les onglets _Analysis_ et _Network_ fournissent des fonctionnalités complémentaires d'analyse et de visualisation.
 
 Haddaway, N. R., Grainger, M. J., Gray, C. T. 2021. citationchaser: An R package and Shiny app for forward and backward citations chasing in academic searching. doi: [10.5281/zenodo.4543513](https://doi.org/10.5281/zenodo.4543513)
 
